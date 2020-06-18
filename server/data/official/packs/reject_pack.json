@@ -1,0 +1,71 @@
+{
+  "pack": {
+    "name": "Reject Pack",
+    "id": "reject_pack"
+  },
+  "black": [
+    {
+      "content": "From WBEZ Chicago, it's This American Life. Today on our program, ______. Stay with us.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My name is Inigo Montoya. You killed my father. Prepare for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Sir, we found you passed out naked on the side of the road. What's the last thing you remember?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The elders of the Ibo tribe of Nigeria recommend ______ as a cure for impotence.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The Westboro Baptist Church is now picketing soldiers' funerals with signs that read 'GOD HATES ______!'",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What are two cards in your hand that you want to get rid of?",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "What do you see? [An image of a Rorschach inkblot]",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You can't wait forever. It's time to talk to your doctor about ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A giant squid in a wedding gown.",
+    "A heart that is two sizes too small and that therefore cannot pump an adequate amount of blood.",
+    "A sexy naked interactive theater thing.",
+    "Asshole pomegranates that are hard to eat.",
+    "Becoming so rich that you shed your body and turn to vapor.",
+    "Caribbean Jesus.",
+    "Corn.",
+    "Crawling into a vagina.",
+    "Dividing by zero.",
+    "Ejaculating a pound of tinsel.",
+    "Faking a jellyfish sting so someone will pee on you.",
+    "Ladles.",
+    "My dick in your mouth.",
+    "Playing an ocarina to summon Ultra-Congress from the sea.",
+    "Super yoga.",
+    "The John D. and Catherine T. MacArthur Foundation."
+  ],
+  "quantity": {
+    "black": 8,
+    "white": 16,
+    "total": 24
+  }
+}

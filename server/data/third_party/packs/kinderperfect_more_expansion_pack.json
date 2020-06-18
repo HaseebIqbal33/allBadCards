@@ -1,0 +1,215 @@
+{
+  "pack": {
+    "name": "KinderPerfect: More Expansion Pack",
+    "id": "kinderperfect_more_expansion_pack"
+  },
+  "black": [
+    {
+      "content": "______ has me questioning my life choices.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ is a f**king nightmare!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ is why I can never run for PTA president.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "As a parent, I get excited about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I never thought I'd have to worry about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I wish Doc McStuffins could fix ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "It was all fun and games until ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My mom always said ______ builds character.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My secret fear.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Only parents know the joy of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Our weekends are now consumed by ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Mother's Day would not be complete without ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My kids are famous for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Parenthood: powered by ______ and sustained by ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Science will never explain ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Sesame Street should have a song about _______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The last time I did a Monster Under the Bed check, I found ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Today's tantrum is brought to you by _______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Today's mommy-shaming moment is brought to you by ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "We need an Instagram hashtag to celebrate ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why did grandma send the kids home?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why did the babysitter quit?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why I'm THAT parent.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why is mommy so #blessed?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You know you are a parent when ______ seems normal.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A dead battery in the noisy toy",
+    "A diaper-eating dog",
+    "A kid's birthday party that costs more than our wedding",
+    "A pee-free toilet seat",
+    "A sandbox fight club",
+    "A toddler mute button",
+    "An everlasting iPad battery",
+    "Another germ-infested, bone-breaking bouncy house",
+    "Asking Alexa for parenting advice",
+    "Bedtime battles",
+    "Bribing your kids with candy to brush their teeth",
+    "Cleaning puke out of your cleavage",
+    "Convincing yourself the drive-thru is a healthy dinner option",
+    "Diaper blowouts",
+    "Disapproving looks from childless couples",
+    "Discussing poop with parents you've just met",
+    "Doing snow angels on Walmart's dirty floor",
+    "Drinking a whole bottle of wine to unwind",
+    "Eating chocolate in the closet",
+    "Faking a poop just to sit in silence",
+    "Fighting over the last Girl Scout cookie",
+    "Figuring out you could probably survive a week on the crap in your car",
+    "Forgetting their after-school activity . . . Again",
+    "Forgetting which twin is which",
+    "Getting your period the one weekend your parents have the kids",
+    "Giving in to ice cream for dinner just to quiet the kids",
+    "Giving the sick kid Tylenol and sending them to daycare anyway",
+    "Glitter, the curse of crafting",
+    "Grocery store tantrums",
+    "Having a favorite child",
+    "Helping them look for their candy that you ate last night",
+    "Knowing which kid farted by their distinct smell",
+    "Letting your kid watch someone else read them books on YouTube",
+    "Literally hiding from my kids",
+    "Mixing up pajama day with picture day",
+    "Noise canceling headphones and a bottle wine",
+    "Not giving a sh*t while chaperoning",
+    "Oh sh*t . . . twins!",
+    "One tequila, two tequila, three tequila, FLOOR",
+    "Packing lunches that never get eaten",
+    "Pants with elastic waistbands",
+    "Pee-soaked mattress",
+    "Peeing with an audience",
+    "Phonetically spelled hate mail from my 5 year old",
+    "Playing hide and go poop",
+    "Pretending we like other people's children",
+    "Putting ketchup on literally everything",
+    "Reading the same book over and over and over and over again",
+    "Realizing the pre-kids you was so wrong about everything",
+    "Redecorating with spill proof fabrics",
+    "Running into an ex just as your kid goes full tantrum",
+    "Saying thank you when handed a booger",
+    "School tuition payments larger than our monthly mortgage",
+    "Secretly looking forward to going to work on Mondays",
+    "Sending the kid to daycare even when you have the day off",
+    "Setting all the clocks forward an hour so they go to bed early",
+    "Someone making millions unwrapping toys on YouTube",
+    "Taking 3 hours to go on a 15 minute errand",
+    "Telling my kids everything is spicy so I don't have to share",
+    "That dumbass who parks in the drop off lane",
+    "The constant aroma of baby vomit and explosive diarrhea",
+    "The fight over whose farts smell the worst",
+    "The impossible-to-find Christmas present",
+    "The inappropriate honesty of a 5 year old",
+    "The Man Flu",
+    "Trying to take them to school on a Saturday",
+    "Underwear negotiations",
+    "Unicorn stickers everywhere",
+    "Using a record number of wipes in a single diaper change",
+    "Using spit as a cleaning aid",
+    "Using your sleeve as a snot rag",
+    "Vomit laundry",
+    "Waiting in line for 3 hours to meet a Disney character for 3 seconds",
+    "Watching cartoons after the kids are in bed",
+    "Wiping another ass"
+  ],
+  "quantity": {
+    "black": 25,
+    "white": 75,
+    "total": 100
+  }
+}

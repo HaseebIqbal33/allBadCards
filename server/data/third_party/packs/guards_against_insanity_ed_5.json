@@ -1,0 +1,204 @@
+{
+  "pack": {
+    "name": "Guards Against Insanity, Edition 5",
+    "id": "guards_against_insanity_ed_5"
+  },
+  "black": [
+    {
+      "content": "______. What's the worst that can happen?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Anyone who knows me knows that I love ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "As a stripper, I have one rule: No ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Due to George R.R. Martin's persistent writer's block, HBO is now developing a new fantasy epic: Game of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "FACT: ______ causes ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I feel the need. The need for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I like my ______ how I like my ______: ______.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "I miss the good old days when ______ could be done without ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I still can't get the taste of ______ out of my mouth.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'm never going to be rich and famous because I'm too busy ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In hindsight, it seems obvious that ______ was never going to cure ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Is it OK that I sometimes fantasize about ______?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Make ______, not ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "My therapist has uncovered repressed memories of ______ from my early childhood.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Please don’t get upset. I didn't mean for ______ to scare you.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Understand this young lady. If you dress like ______, you're gonna find yourself ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "What makes little girls cry?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's oozing down my leg?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why do I bareback?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You know you're in love when ______ makes you horny.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A banter tampon.",
+    "A family-sized bucket of chicken.",
+    "A golden shower on a warm summer's day.",
+    "A molester mustache.",
+    "A rape kit.",
+    "A severe beating with the ugly stick.",
+    "A shit of a thousand wipes.",
+    "A sickening dull thud.",
+    "Acid.",
+    "Acting out rape fantasies with strangers you've never met.",
+    "An inability to take a joke.",
+    "An unwashed, pre-owned rubber gimp suit.",
+    "Antidepressants.",
+    "Atheists.",
+    "Bad shrimp.",
+    "Ballscaping.",
+    "Big-titted whores.",
+    "Bitch-slapping a homeless person and burning the box they sleep in.",
+    "Blasphemy.",
+    "Bleeding during sex.",
+    "Brexit.",
+    "Bulimia.",
+    "Checking that everything's the right tightness.",
+    "Christianity.",
+    "Concentration camps.",
+    "Cramming it all the way in.",
+    "Death by a thousand cuts.",
+    "Delusions of grandeur.",
+    "Ethnic slurs.",
+    "Fake showers.",
+    "Female circumcision.",
+    "Fingering a baby.",
+    "Finishing a story with the words \"And then I fucked her up the ass\".",
+    "Flamboyant gay men.",
+    "Formaldehyde.",
+    "Getting so drunk you start finding your own wife attractive.",
+    "Getting your eyeballs tattooed because other people's attention is worth the risk of going blind.",
+    "Having sex with strangers for money.",
+    "Having the painters in.",
+    "Irreparable damage.",
+    "Jailbait.",
+    "Karma.",
+    "Lady gardening.",
+    "Letting him cum inside you.",
+    "Leukemia.",
+    "Low expectations.",
+    "Lying to terminally ill children about their life expectancy.",
+    "Megan's Law.",
+    "Mother Teresa.",
+    "My \"friend\".",
+    "Nipples as hard as bullets.",
+    "Not being shown enough attention when you were a child.",
+    "Palliative care.",
+    "Pearl Harbor.",
+    "Pre-cum.",
+    "Pricks with small dicks.",
+    "Promiscuous women.",
+    "Religious intolerance.",
+    "Ron Jeremy.",
+    "Rosa Parks.",
+    "Same sex marriage.",
+    "Sandy Hook.",
+    "Schindler's List.",
+    "Self-harming.",
+    "Shit literally everywhere.",
+    "Sore lips.",
+    "Stalking.",
+    "Starving a fat girl until she's attractive enough to fuck.",
+    "Sucking her ass so hard, her face caves in.",
+    "Sucking her juices off your best mate's cock.",
+    "Teaching a woman the meaning of the word respect.",
+    "The ability to turn your penis inside out.",
+    "The age of consent.",
+    "The American way.",
+    "The buckle end of the belt.",
+    "The extinction of an entire race of people.",
+    "The lingering taste of a night of passion.",
+    "The not-so-hot friend.",
+    "The reek of desperation.",
+    "The right to bear arms.",
+    "The stench of death.",
+    "The vacant stare of a retarded child.",
+    "The weaker sex.",
+    "Too much teeth.",
+    "Touchin' ya where you pee.",
+    "Truffle butter.",
+    "Using the last guy's semen as lube.",
+    "Wanking with a hand full of razor blades.",
+    "Zyklon B."
+  ],
+  "quantity": {
+    "black": 22,
+    "white": 90,
+    "total": 112
+  }
+}

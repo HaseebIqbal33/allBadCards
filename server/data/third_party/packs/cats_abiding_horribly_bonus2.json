@@ -1,0 +1,45 @@
+{
+  "pack": {
+    "name": "Cats Abiding Horribly Bonus Cards 2",
+    "id": "cats_abiding_horribly_bonus2"
+  },
+  "black": [
+    {
+      "content": "Damn it feels good to be ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "After reading Stephen Hawking's latest theory of ______ I curled up into a corner and cried for three days straight.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Whenever I feel lonely, I put on some Barry White, dress up like _____ and dance seductively in front of the mirror.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Give me liberty or give me ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Before Marilyn Monroe came along, Hugh Hefner wanted ______ as the first Playboy centerfold. Unfortunately for everyone, that deal fell through.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "The white male patriarchy.",
+    "The Founding Fathers.",
+    "Everyone getting a trophy.",
+    "Warmongering.",
+    "Accidental anal."
+  ],
+  "quantity": {
+    "black": 5,
+    "white": 5,
+    "total": 10
+  }
+}

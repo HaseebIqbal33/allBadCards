@@ -1,0 +1,218 @@
+{
+  "pack": {
+    "name": "Fifth Expansion",
+    "id": "fifth_expansion"
+  },
+  "black": [
+    {
+      "content": "And today's soup is Cream of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Armani suit: $1,000. Dinner for two at that swanky restaurant: $300. The look on her face when you surprise her with ______: priceless.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Do the Dew with our most extreme flavor yet! Get ready for Mountain Dew ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Do you lack energy? Does it sometimes feel like the whole world is ______? Zoloft.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Don't forget! Beginning this week, Casual Friday will officially become \"______ Friday.\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Get ready for the movie of the summer! One cop plays by the book. The other's only interested in one thing: ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Having the worst day EVER. #______",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Heed my voice, mortals! I am the god of ______ , and I will not tolerate ______!",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Help me doctor, I've got ______ in my butt!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Here at the Academy for Gifted Children, we allow students to explore ______ at their own pace.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Hi MTV! My name is Kendra, I live in Malibu, I'm into ______, and I love to have a good time.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Hi, this is Jim from accounting. We noticed a $1,200 charge labeled \"______.\" Can you explain?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I don't mean to brag, but they call me the Michael Jordan of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In his farewell address, George Washington famously warned Americans about the dangers of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In his new action comedy, Jackie Chan must fend off ninjas while also dealing with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Life's pretty tough in the fast lane. That's why I never leave the house without ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Now in bookstores: \"The Audacity of ______\" by Barack Obama.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Patient presents with ______ . Likely a result of ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Well if ______ is good enough for ______, it's good enough for me.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Well what do you have to say for yourself, Casey? This is the third time you've been sent to the principal's office for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What killed my boner?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's making things awkward in the sauna?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "WHOOO! God damn I love ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why am I broke?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Yo' mama's so fat she ______!",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "40 acres and a mule.",
+    "A chimpanzee in sunglasses fucking your wife.",
+    "A crazy little thing called love.",
+    "A disappointing salad.",
+    "A face full of horse cum.",
+    "A giant powdery manbaby.",
+    "A mouthful of potato salad.",
+    "A one-way ticket to Gary, Indiana.",
+    "A powered exoskeleton.",
+    "A reason not to commit suicide.",
+    "A team of lawyers.",
+    "A whole new kind of porn.",
+    "A zero-risk way to make $2,000 from home.",
+    "AIDS monkeys.",
+    "All these decorative pillows.",
+    "An inability to form meaningful relationships.",
+    "An unforgettable quinceañera.",
+    "An uninterrupted history of imperialism and exploitation.",
+    "Anal fissures like you wouldn't believe.",
+    "Ancient Athenian boy-fucking.",
+    "Backwards knees.",
+    "Being nine years old.",
+    "Being paralyzed from the neck down.",
+    "Being worshipped as the one true God.",
+    "Blackface.",
+    "Blowjobs for everyone.",
+    "Boring Vaginal sex.",
+    "Butt stuff.",
+    "Changing a person's mind with logic and facts.",
+    "Child support payments.",
+    "Cutting off a flamingo's legs with garden shears.",
+    "Daddy's credit card.",
+    "Deez nuts.",
+    "Denzel.",
+    "Doing the right stuff to her nipples.",
+    "Ejaculating live bees and the bees are angry.",
+    "Ennui.",
+    "Figuring out how to have sex with a dolphin.",
+    "Free ice cream, yo.",
+    "Genghis Khan's DNA.",
+    "Getting caught by the police and going to jail.",
+    "Getting drive-by shot.",
+    "Getting eaten alive by Guy Fieri.",
+    "Giant sperm from outer space.",
+    "Going to a high school reunion on ketamine.",
+    "Having been dead for a while.",
+    "Mom's new boyfriend.",
+    "My boyfriend's stupid penis.",
+    "My dead son's baseball glove.",
+    "My first period.",
+    "Not believing in giraffes.",
+    "Oil!",
+    "Out-of-this-world bazongas.",
+    "P.F. Chang himself.",
+    "Russian super-tuberculosis.",
+    "Seeing my village burned and my family slaughtered before my eyes.",
+    "Seeing things from Hitler's perspective.",
+    "September 11th, 2001.",
+    "Slowly easing down onto a cucumber.",
+    "Social justice warriors with flamethrowers of compassion.",
+    "Some shit-hot guitar licks.",
+    "Stupid.",
+    "The Abercrombie & Fitch lifestyle.",
+    "The basic suffering that pervades all of existence.",
+    "The black half of Barack Obama.",
+    "The eight gay warlocks who dictate the rules of fashion.",
+    "The ghost of Marlon Brando.",
+    "The inability to form meaningful relationships.",
+    "The passage of time.",
+    "The swim team, all at once.",
+    "The tiger that killed my father.",
+    "The unbelievable world of mushrooms.",
+    "The white half of Barack Obama.",
+    "Too much cocaine.",
+    "Unrelenting genital punishment.",
+    "Vegetarian options.",
+    "Wearing glasses and sounding smart.",
+    "Western standards of beauty."
+  ],
+  "quantity": {
+    "black": 25,
+    "white": 78,
+    "total": 103
+  }
+}

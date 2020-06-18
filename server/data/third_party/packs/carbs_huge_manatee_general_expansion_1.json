@@ -1,0 +1,217 @@
+{
+  "pack": {
+    "name": "Carbs of the Huge Manatee: General Expansion 1",
+    "id": "carbs_huge_manatee_general_expansion_1"
+  },
+  "black": [
+    {
+      "content": "______ is my co-pilot.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______, that's why I got married.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______:  A solution in search of a problem.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "“Give me liberty or give me ______!”",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "“I love the smell of ______ in the morning!”",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "“Isn't that the ultimate homeland security, standing up and defending ______?” - Rick Santorum",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "A spoonful of ______ helps the ______ go down.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I never should have introduced ______ to ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I think, therefore I am ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I use the Internet to look at pictures of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I was in ______ but my life changed when I found ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "If you build ______, they will come.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In your Best-Man speech, I'd talk about when we found ourselves ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Last night, I tried ______ again.  It was MUCH better the second time.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Me and ______?  That's just a rumor!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My fortune cookie said I should spend more time playing with ______ and less time with ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "My personal trainer showed me this cool thing I could do with ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Randaflex™:  The first over-the-counter treatment for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The only mind-altering substance I use is ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "We've secretly taken the coffee you usually drink and replaced it with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's my spirit animal?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You did ______?  With ______?  For how many cookies?",
+      "pick": 2,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "“Somebody That I Used To Know” covered by Sting.",
+    "A cuddle puddle.",
+    "A dildo cannon.",
+    "A light-green satin corset.",
+    "A little bit pregnant.",
+    "A meat party in my mouth!",
+    "A princess who can kill the dragon on her own, thank you very much.",
+    "A sad panda.",
+    "A selfie where you can see that you didn't clean up after last night's escapades.",
+    "A smaller, blacker vagina.",
+    "A special little snowflake.",
+    "A willing sheep.",
+    "An open relationship status on Facebook.",
+    "Androgynous haircuts.",
+    "Being absolutely crazy about my therapist.",
+    "Being aggressive-aggressive. It's like passive-aggressive, but without the “passive.”",
+    "Being disappointed when your date drops their pants.",
+    "Being mad stylin', yo.",
+    "Bizarre acapella renditions of popular songs.",
+    "Bombing the homeless.",
+    "Burning Man.",
+    "Carlos Chang's Fine Italian Cuisine.",
+    "Carmen Sandiego's clitoris.",
+    "Clitter™! Glitter for your vagina!* ",
+    "Coffee so strong that it can be used for vision quests.",
+    "Comfy sweats and premium ice cream.",
+    "Cranky Old Man 2: Get Off My Lawn!™ New from Capcom Games!",
+    "Creeper.",
+    "Cross-generational sex talk.",
+    "Daiya cheese.* ",
+    "Defenestration.* ",
+    "Dihydrogen Monoxide.* ",
+    "Discovering that he's hung like a lightswitch.",
+    "Embarrassing bridal shower gifts.",
+    "Expired memes.",
+    "Facebook friend-purging.",
+    "Failing the Bechtel Test* in real life. ",
+    "Fashion advice from Amazon's homepage.",
+    "Firecracker chocolate.* ",
+    "Georgia O'Keeffe.",
+    "Gingers don't have souls.",
+    "Going out on a date with a guy who might be 6 feet tall – but only if he's wearing heels.",
+    "Happy Family Memories.* ",
+    "Hearing neighbors having sex... and not finding her believable.",
+    "Heavy flow.",
+    "High powered jacuzzi jets.",
+    "Hot, left-handed, women geeks.",
+    "Identity theft.",
+    "Illegal downloading.",
+    "Instagramming pictures of food.",
+    "Intense, grab your ankles vomiting.",
+    "Introducing yourself after the dance.",
+    "Just remember that Jesus Loves You.",
+    "Just to see how it feels...",
+    "Kermit the frog porking out.",
+    "Misplaced WMDs.",
+    "Missing the bowl.",
+    "Morbidly obese, 9-year-old children with high cholesterol.",
+    "Not labia. YAY-bia!",
+    "Not remembering the difference between Second-Wave and Third-Wave feminism.",
+    "Paint fumes in an enclosed space.",
+    "Portland.",
+    "President Hillary enjoying a male intern.",
+    "Puppy breath.",
+    "Russian homophobia.",
+    "Sand in the damnedest places.",
+    "Sarah Palin at Toastmasters™.",
+    "Self-righteous hipsters.",
+    "Single-payer healthcare like the rest of the civilized world.",
+    "Sneezing while wearing the Diva Cup™ and a skirt with no underwear.* ",
+    "Soy Milk.",
+    "Stupid Cosmo Sex Tips.",
+    "Talking with your girlfriends about his “limitations.”",
+    "Tasty, tasty cheese.",
+    "That sounds like my first time.",
+    "The dumpster behind the supermarket.",
+    "The Fox News Team.",
+    "The gayest straight man you know.",
+    "The horrifying realization that Jesus wasn't white. Or capitalist. Or American.",
+    "The hunched posture teenage girls get from texting all the time.",
+    "The NuvaRing™.* ",
+    "The world's angriest ginger.",
+    "Thinking, “I'm missing 'Big Bang Theory' for this?”",
+    "Tonight's special – Stuffed avocado.",
+    "Tori Amos' new album.",
+    "Turtle sex.",
+    "Unbelievably hot smart women.",
+    "Volleyball shorts.",
+    "Wearing jeans so you don't have to shave.",
+    "Wiccan prayer in school.",
+    "You and your best friend simultaneously flashing the hand signal for “abortion” at the first sound of a baby crying.* ",
+    "Your asshole inner voice."
+  ],
+  "quantity": {
+    "black": 22,
+    "white": 92,
+    "total": 114
+  }
+}

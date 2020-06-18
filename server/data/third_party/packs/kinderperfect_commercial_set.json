@@ -1,0 +1,690 @@
+{
+  "pack": {
+    "name": "KinderPerfect (Commercial Set)",
+    "id": "kinderperfect_commercial_set"
+  },
+  "black": [
+    {
+      "content": "______ and ______ make for the best family vacations.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "______ is a timeless symbol of parenthood.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ is the best birth control.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ is why I am a failure as a parent.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ is why we can't have nice things.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ is worse than stepping on a Lego.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "All I want for Christmas is a day without ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Before kids, I never thought about _______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Box of diapers: $40.\nFood for the week: $200.\n______: priceless.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Brown bear,\nbrown bear,\nwhat do\nyou see?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Caution! ______ leads to ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Daddy's worst nightmare.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Don't judge me because of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Don't tell Daddy about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "First comes love, then comes marriage, then comes ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Have kids they said, it'll be fun they said. Instead, we got ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "How we got your little brother.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I call this hairstyle ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I thought we were done with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I lie to my children about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I wish I could unsee ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I would pay for someone to explain ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'd rather deal with ______ than ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I'm an asshole parent because ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Junior's favorite cockblock.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My best parenting advice involves ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My college degree did not prepare me for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My daughter should never know about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My most recent gray hair is from ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My mother was right about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Next up, Daniel Tiger sings a catchy tune about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Normally I can cope, but ______ broke me.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Oh no! The school principal just called about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Our code name for sex is ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Our perfect date night ended with an argument over ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Our perfect family evening was ruined by ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Please don't put ______ in your mouth.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Please stop ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Pregnancy: the end of ______ and the start of ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "School guidelines now prohibit ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Sesame Street should have a show about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Signs that you are THAT family.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The best bedtime stories include ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The best birthday parties have ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The best part of being a stay-at-home parent is ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The school field trip was ruined by ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The two secrets to stress-free parenting are ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "The two things that happen at every family reunion.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "There is a new smartphone app to help with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Today's epic parenting fail.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Today's parenting win!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Trying to get pregnant? Try ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "We were late to school today because of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "We were perfect parents until ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What is keeping mommy up at night?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What is making things awkward at the PTA meeting?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What is that smell?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What the f**k is that?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's Mom's best friend?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When I look into my child's eyes, I see ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When my kids are grown, I will not miss ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why did Mommy lock herself in the bathroom?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why didn't someone warn me about ______?!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why does Mommy drink?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why I need therapy.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why is Daddy in time out again?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why is Mommy crying?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why we are banned from Disneyland.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why we don't want any more kids.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why? Because ______ causes ______, that's why?",
+      "pick": 2,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "1am drink requests",
+    "1st grade social calendars",
+    "3 positive pregnancy tests and still not convinced",
+    "48 hour labor",
+    "6 year old with a smartphone",
+    "7 shoes, no pairs",
+    "A 3-year-old nudist",
+    "A Band-Aid obsession",
+    "A broken condom",
+    "A car seat covered in crushed Cheerios",
+    "A cheap ass Tooth Fairy",
+    "A crowning selfie",
+    "A double shot",
+    "A dozen toddlers on a sugar high",
+    "A finger-waving, hip-swaying 6-year-old princess",
+    "A formal goldfish funeral",
+    "A freezer full of breastmilk",
+    "A good night's sleep",
+    "A half-assed drawing taped to the refrigerator",
+    "A headless Barbie doll",
+    "A hot Brazilian nanny",
+    "A leaky vasectomy",
+    "A massage. Just a massage.",
+    "A misplaced IUD",
+    "A misplaced pee-pee teepee",
+    "A night alone with the kids",
+    "A participation trophy",
+    "A permanent marker Picasso",
+    "A permission slip signed in crayon",
+    "A Pinterest fail",
+    "A poop mural",
+    "A poopy finger",
+    "A poorly-planned quickie",
+    "A positive paternity test",
+    "A sea of puzzle pieces",
+    "A sexy fertility doctor",
+    "A sippy cup full of curdled milk",
+    "A six-month-old bag of Halloween candy",
+    "A smartphone in the toilet",
+    "A sneaky little devil",
+    "A sticky remote control",
+    "A sugar-high rampage",
+    "A tween who knows everything",
+    "A well-hung toddler",
+    "Accepting a Google Calendar invite for date night",
+    "Adderall and apple juice",
+    "An angel at school and a devil at home",
+    "An awkward silence",
+    "An endless mountain of dirty clothes",
+    "An extra hour of screen time",
+    "An undescended testicle",
+    "Anatomically correct dolls",
+    "Another box of Girl Scout Cookies",
+    "Another damn fundraiser",
+    "Another damn stuffed animal",
+    "Another day without a bath",
+    "Another failed family photo",
+    "Another positive pregnancy test",
+    "Another unflushed toilet",
+    "Anti-vax parents",
+    "Baby daddy drama",
+    "Baby wipes for everything",
+    "Baking nut-free, gluten-free, vegan cupcakes at 2 AM.",
+    "Because I said so, dammit!",
+    "Beer cooler at the birthday party",
+    "Being someone's full-time snack bitch.",
+    "Benadryl at bedtime",
+    "Binge watching Netflix",
+    "Black market breastmilk",
+    "Blasting the radio to drown out the whining",
+    "Braces: the $4,000 smile",
+    "Breast milk coffee creamer",
+    "Breastfeeding in a moving car",
+    "Bribing your way into preschool",
+    "Bringing home a puppy",
+    "Butt cream for everything",
+    "Buying milk, eggs, and vodka at the grocery store",
+    "Buying pregnancy tests from the dollar store",
+    "Buying the toy to get out of the store",
+    "Buying your daughter's first tampons",
+    "Caillou, that whiny bitch",
+    "Catching puke with your bare hands",
+    "Cereal for dinner",
+    "Changing a diaper one-handed",
+    "Chasing poop in the bathtub … again!",
+    "Chocolate or poop?",
+    "Choosing pet food over my carefully prepared dinner",
+    "Co-sleeping till college",
+    "Cockblocking baby cries",
+    "Coffee, gin, and Xanax",
+    "Coitus interruptus",
+    "Common Core math",
+    "Conceiving on the first date",
+    "Crayon-colored vomit",
+    "Crying over spilled breast milk",
+    "Curse words in church",
+    "Daddy",
+    "Daddy said I could",
+    "Daddy's Grindr account",
+    "Daughter drama",
+    "Day drinking with Daddy",
+    "Day-old dirty diapers",
+    "Debating cartoon logic",
+    "Debating circumcision",
+    "Demon spawn",
+    "Diaper cream EVERYWHERE!",
+    "Doing child drop-off in your pajamas",
+    "Doing the bare ass minimum",
+    "Doing the Mickey Mouse Clubhouse \"Hot Dog Dance\"",
+    "Doing the Paw Patrol \"Pup Pup Boogie\"",
+    "Drinking from the dog bowl",
+    "Drop-off birthday parties",
+    "Dropping the F-bomb",
+    "Eating grandpa's Viagra",
+    "Eating the Cheerio in the toilet",
+    "Eating the last fruit snack",
+    "Eating their own weight in candy",
+    "Eau de baby vomit",
+    "Establishing playground dominance",
+    "Expecting a smile and getting a face full of puke",
+    "Explaining ejaculation",
+    "Explaining the Easter bunny",
+    "Eye rolls. So many eye rolls.",
+    "F**king cupcakes",
+    "F**king potty mouth kids",
+    "Farting in Target and blaming your child",
+    "Fifty shades of quiet",
+    "Finding out your nanny is a stripper",
+    "Flashing",
+    "Fluency in child gibberish",
+    "Flying with toddlers",
+    "Forgetting it's dress-up day at school",
+    "Forgetting to move the damn Elf on the Shelf",
+    "Four-week-old French fries",
+    "Free birth control",
+    "Free range children",
+    "Functional alcoholism",
+    "Getting caught mid-quickie",
+    "Getting grandma drunk for a peaceful holiday meal",
+    "Getting high before a playdate",
+    "Giving him the middle finger behind his back",
+    "Giving my child a drum set",
+    "Go the f**k to sleep",
+    "Going to Target for a mini-vacation",
+    "Grocery store cookies for the school bake sale",
+    "Handmade, locally grown organic baby food",
+    "Having the courage to give up",
+    "Head lice",
+    "Helicopter parents",
+    "Her first boyfriend",
+    "Her first period",
+    "Higher standards for first borns",
+    "Hostile dinner negotiations",
+    "I want to do it by myseeeeeeelf!",
+    "Ignoring the chore list",
+    "Impromptu sex education at the zoo",
+    "Inappropriate show and tell",
+    "iPad babysitter",
+    "It was just a concussion",
+    "Jack and Coke",
+    "Juggling ballet, soccer, swimming, and dinner on the same night",
+    "Kidz Bop on endless repeat",
+    "Lego landmines",
+    "Lint covered gummy bears",
+    "Little boy pee",
+    "Living on Goldfish and broken dreams",
+    "Losing the last of the baby weight",
+    "Losing their little minds over socks",
+	"Lying about Santa Claus",
+    "Mac and cheese for dinner … again",
+    "Matching family outfits",
+    "Messy hair, don't care",
+    "Mimosas at the playdate",
+    "Mom, mommy, mommy, mom, mom, mommy, mom, MOM",
+    "Mommy brain",
+    "Mommy guilt",
+    "Mommy juice",
+    "Mommy time",
+    "Mommy's special toy",
+    "More glitter than a stripper",
+    "Morning wood",
+    "Mother-in-law advice",
+    "My fantasy social life",
+    "My non-existent sex life",
+    "My resting bitch face",
+    "My shattered dreams and aspirations",
+    "My unfinished baby book",
+    "Nap-trapped in the car",
+    "Never pooping alone",
+    "Never wanting them to grow up",
+    "Ninja like moves to get a toddler into their car seat",
+    "Niplash",
+    "Not giving a sh*t about the 3 second rule",
+    "Nothing. Absolutely nothing.",
+    "One too many damn kids",
+    "Parental advice from childless friends",
+    "Parenting advice from celebrities",
+    "Passive aggressive PTA parents",
+    "Paw Patrol plot holes",
+    "Peanut free zones",
+    "Peeing when you laugh",
+    "Peeing with an audience",
+    "Picture-perfect Pinterest moms",
+    "Placenta smoothie",
+    "Playground throwdown",
+    "Playing doctor",
+    "Poop. So much poop.",
+    "Pooping in the car seat",
+    "Poopspolsions",
+    "Pot brownies at the PTA meeting",
+    "Potty training failure",
+    "Pregnancy sex",
+    "Premeditated meltdowns",
+    "Preschool social hierarchy",
+    "Pretending to give a damn",
+    "Pretending you're asleep so someone else will get the baby",
+    "Pretending your screaming kid does not belong to you",
+    "Projectile vomiting",
+    "Pumping in an airport bathroom",
+    "Quiet. Absolute quiet. For just five minutes.",
+    "Realizing your child will never earn an athletic scholarship",
+    "Recognizable fruit in the diaper",
+    "Revenge gifting annoying toys",
+    "Saggy post-pregnancy boobies",
+    "Sanctimommies",
+    "Saying \"I love you\" with puppy dog eyes",
+    "Saying no to having another child",
+    "School politics",
+    "Secretly coveting a minivan",
+    "Seeing Grandpa naked",
+    "Senseless YouTube videos",
+    "Shamelessly sniffing a child's butt in public",
+    "Sharpie lipstick",
+    "Sharts",
+    "Shaving the dog",
+    "Shopkins. So many Shopkins.",
+    "Single people sex life",
+    "Sketchy school bus drivers",
+    "Skidmark undies",
+    "Skipping bath time",
+    "Sleep deprivation",
+    "Smiling and pooping at the same time",
+    "Snot. Yeah, I think that's snot.",
+    "Some princess sh*t",
+    "Spitting up right into your open mouth",
+    "Stay-at-home dads",
+    "Staying up late to do your child's project for them",
+    "Sticky fingers",
+    "Stinky farts",
+    "Stop licking your sister!",
+    "Stop playing with your penis!",
+    "Stranger danger",
+    "Stripping to \"Let it Go\"",
+    "Sunday hangovers",
+    "Surprise lactation",
+    "Taking pride in your child's grammatically correct swearing",
+    "Teaching a child how to hock a loogie",
+    "Teaching the kids how to flick boogers",
+    "Tequila shots before the PTA meeting",
+    "That crusty sock",
+    "That f**king Elf on a Shelf",
+    "That first gray pubic hair",
+    "That one kid. You know the one. That one.",
+    "That one mom. You know the one. That one.",
+    "That time I ran out of baby wipes",
+    "The \"oops child\"",
+    "The American Girl store",
+    "The apocalyptic results of a granola bar in the hands of a toddler",
+    "The babysitter's lip gloss",
+    "The back to school happy dance",
+    "The bedside toddler zombie stare",
+    "The brilliant idea to buy white carpet",
+    "The cost of college in 2030",
+    "The count of three",
+    "The daily power struggle",
+    "The dreams your mother gave up to have you",
+    "The emptiness where parental love should be",
+    "The eternal question: \"Why?\"",
+    "The fallout of the first crush",
+    "The fallout when someone steals your baby name",
+    "The family restroom",
+    "The humiliation of a child teaching me how to use an iPad",
+    "The last of my inheritance",
+    "The lies we tell our children",
+    "The logistics of planning a family holiday",
+    "The magic of Minecraft",
+    "The milkman's baby",
+    "The nightmare of 2 under 2",
+    "The pantsless wonder",
+    "The Rolls Royce of strollers",
+    "The second bottle of wine",
+    "The sex talk",
+    "The smug cloth diaper parent",
+    "The soul shattering lack of sleep",
+    "The sudden realization I've become my mother",
+    "The sweaty hand of a child",
+    "Their first sleepover",
+    "Those three magic words: \"They're at Grandma's.\"",
+    "Threenagers",
+    "Tickle fights at bedtime",
+    "Tiny terrorists",
+    "Toddler bribery",
+    "Toddler erections",
+    "Toddler leashes",
+    "Toilet bowl fishing",
+    "Toy inequality",
+    "Training bra shopping with dad",
+    "Trying again for a son",
+    "Tween sass",
+    "Two bottles of wine and a broken condom",
+    "Unrealistic expectations",
+    "Unsolicited parental advice",
+    "Urine fountains",
+    "Using the wrong sippy cup",
+    "Vodka bottle in the diaper bag",
+    "Wanting to punch Peppa Pig",
+    "Wanting to strangle the imaginary friend",
+    "Weeping with joy over the sweet sound of silence",
+    "Whipping out a boob",
+    "Wine and cheese Lunchables",
+    "Wine tasting after Sunday school",
+    "Winning the Charter School lottery",
+    "Wiping butts",
+    "Wishing you could just make a donation instead",
+    "Yoga pants as formal wear"
+  ],
+  "quantity": {
+    "black": 70,
+    "white": 324,
+    "total": 394
+  }
+}

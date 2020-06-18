@@ -1,0 +1,33 @@
+{
+  "pack": {
+    "name": "PAX Prime 2015 Food Pack A (Mango)",
+    "id": "pax2015_food_pack_A"
+  },
+  "black": [
+    {
+      "content": "I’m Bobby Flay, and if you can’t stand ______, get out of the kitchen!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "It’s not delivery.\nIt’s ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A sobering quantity of chili cheese fries.",
+    "Going vegetarian and feeling so great all the time.",
+    "Kale farts.",
+    "Licking the cake batter off of grandma’s fingers.",
+    "Real cheese flavor.",
+    "Swishing the wine around and sniffing it like a big fancy man.",
+    "The Dial-A-Slice Apple Divider from Williams-Sonoma.",
+    "What to do with all of this chocolate on my penis."
+  ],
+  "quantity": {
+    "black": 2,
+    "white": 8,
+    "total": 10
+  }
+}

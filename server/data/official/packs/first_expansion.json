@@ -1,0 +1,267 @@
+{
+  "pack": {
+    "name": "First Expanion",
+    "id": "first_expansion"
+  },
+  "black": [
+    {
+      "content": "An international tribunal has found ______ guilty of ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "And I would have gotten away with it, too, if it hadn't been for ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Awww, sick! I just saw this skater do a 720 kickflip into ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Dear Sir or Madam, We regret to inform you that the Office of ______ has denied your request for ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Doctor, you've gone too far! The human body wasn't meant to withstand that amount of ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Future historians will agree that ______ marked the beginning of America's decline.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "He who controls ______ controls the world.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I learned the hard way that you can't cheer up a grieving friend with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In a pinch, ______ can be a suitable substitute for ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "In his new self-produced album, Kanye West raps over the sounds of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In its new tourism campaign, Detroit proudly proclaims that it has finally eliminated ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In Rome, there are whisperings that the Vatican has a secret room devoted to ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In the distant future, historians will agree that ______ marked the beginning of America's decline.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Michael Bay's new three-hour action epic pits ______ against ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "My plan for world domination begins with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Next season on Man vs, Wild, Bear Grylls must survive the depths of the Amazon with only ______ and his wits.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Next week on Discovery Channel, one man must survive in the depths of the Amazon with only _____ and his wits.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Science will never explain ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Science will never explain the origin of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The CIA now interrogates enemy agents by repeatedly subjecting them to ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The secret to a lasting marriage is communication, communication, and ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The socialist governments of Scandinavia have declared that access to ______ is a basic human right.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "This season on Man vs. Wild, Bear Grylls must survive in the depths of the Amazon with only ______ and his wits.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What brought the orgy to a grinding halt?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What has been making life difficult at the nudist colony?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's the gift that keeps on giving?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When all else fails, I can always masturbate to ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When I pooped, what came out of my butt?",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "24-hour media coverage.",
+    "A beached whale.",
+    "A big black dick.",
+    "A bloody pacifier.",
+    "A crappy little hand.",
+    "A fat bald man from the internet.",
+    "A Japanese tourist who wants something very badly but cannot communicate it.",
+    "A low standard of living.",
+    "A nuanced critique.",
+    "A panty raid.",
+    "A passionate Latino lover.",
+    "A plunger to the face.",
+    "A rival dojo.",
+    "A smiling black man, a latina businesswoman, a cool Asian, and some whites.",
+    "A web of lies.",
+    "A woman scorned.",
+    "An atomic wedgie.",
+    "An Etsy steampunk strap-on.",
+    "An evil man in evil clothes.",
+    "André the Giant's enormous, leathery scrotum.",
+    "Apologizing.",
+    "Appreciative snapping.",
+    "Ashton Kutcher.",
+    "Beating your wives.",
+    "Being a busy adult with many important things to do.",
+    "Being a dinosaur.",
+    "Big Bird's brown, crusty asshole.",
+    "Blaxploitation.",
+    "Bosnian chicken farmers.",
+    "Breaking nip slip news.",
+    "Carnies.",
+    "Clams.",
+    "Clenched butt cheeks.",
+    "Converting to Islam.",
+    "Coughing into a vagina.",
+    "Cutting.",
+    "Dancing with a broom.",
+    "Deflowering a princess.",
+    "Deflowering the princess.",
+    "Dorito breath.",
+    "Eating an albino.",
+    "Enormous Scandinavian women.",
+    "Fabricating statistics.",
+    "Finding a skeleton.",
+    "Gandalf.",
+    "Genetically engineered super-soldiers.",
+    "George Clooney's musk.",
+    "Getting abducted by Peter Pan.",
+    "Getting in her pants, politely.",
+    "Gladiatorial combat.",
+    "Good grammar.",
+    "Having a penis.",
+    "Hipsters.",
+    "Historical revisionism.",
+    "Insatiable bloodlust.",
+    "Jafar.",
+    "Jean-Claude Van Damme in slow motion.",
+    "Jean-Claude Van Damme.",
+    "Just the tip.",
+    "Leveling up.",
+    "Literally eating shit.",
+    "Mad hacky-sack skills.",
+    "Making the penises kiss.",
+    "Media coverage.",
+    "Medieval Times® Dinner & Tournament.",
+    "Mom.",
+    "Moral ambiguity.",
+    "My machete.",
+    "Neil Patrick Harris.",
+    "NOOOOOOOOO!!!",
+    "Nubile slave boys.",
+    "Ominous background music.",
+    "One thousand Slim Jims.",
+    "Overpowering your father.",
+    "Panty raids.",
+    "Pistol-whipping a hostage.",
+    "Quiche.",
+    "Quivering jowls.",
+    "Revenge fucking.",
+    "Ripping into a man's chest and pulling out his still-beating heart.",
+    "Ryan Gosling riding in on a white horse.",
+    "Salvia.",
+    "Sanding off a man's nose.",
+    "Santa Claus.",
+    "Savagely beating a mascot.",
+    "Scrotum tickling.",
+    "Sexual humiliation.",
+    "Sexy Siamese twins.",
+    "Shaft.",
+    "Shitting out a screaming face.",
+    "Slow motion.",
+    "Space muffins.",
+    "Statistically validated stereotypes.",
+    "Stockholm Syndrome.",
+    "Sudden Poop Explosion Disease.",
+    "Suicidal thoughts.",
+    "Syphilitic insanity.",
+    "The boners of the elderly.",
+    "The economy.",
+    "The Fanta® girls.",
+    "The four arms of Vishnu.",
+    "The Gulags.",
+    "The harsh light of day.",
+    "The hiccups.",
+    "The ooze.",
+    "The shambling corpse of Larry King.",
+    "The worst pain imaginable. Times two!",
+    "This guy!",
+    "Tripping balls.",
+    "Walking in on Dad peeing into Mom's mouth.",
+    "Words, words, words.",
+    "Zeus's sexual appetites."
+  ],
+  "quantity": {
+    "black": 28,
+    "white": 112,
+    "total": 140
+  }
+}

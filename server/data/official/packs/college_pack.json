@@ -1,0 +1,69 @@
+{
+  "pack": {
+    "name": "College Pack",
+    "id": "college_pack"
+  },
+  "black": [
+    {
+      "content": "All classes today are cancelled due to ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Did you know? Our college was recently named the #1 school for ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In this paper, I will explore ______ from a feminist perspective.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My memory of last night is pretty hazy. I remember ______ and that's pretty much it.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Pledges! Time to prove you're Delta Phi material. Chug this beer, take off your shirts, and get ready for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The Department of Psychology is looking for paid research volunteers. Are you 18-25 and suffering from ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A bachelor's degree in communications.",
+    "A girl who is so interesting that she has blue hair.",
+    "A Yale man.",
+    "An emergency all-floor meeting on inclusion.",
+    "Calling mom because it's just really hard and I miss her and I don't know anyone here.",
+    "Falling in love with poetry.",
+    "Five morons signing a lease together.",
+    "Fucking the beat boxer from the a cappella group.",
+    "Going to college and becoming a new person, who has sex.",
+    "Googling how to eat pussy.",
+    "How many Asians there are.",
+    "My high school boyfriend.",
+    "Performative wokeness.",
+    "Pretending to have done the reading.",
+    "Rocking a 1.5 GPA.",
+    "Sucking a flaccid penis for 20 minutes.",
+    "The sound of my roommate masturbating.",
+    "Throw up.",
+    "Uggs, leggings, and a North Face.",
+    "Underage drinking.",
+    "Valuable leadership experience.",
+    "Wandering the streets in search of a party.",
+    "Whichever one of you took a shit in the shower.",
+    "Young Republicans."
+  ],
+  "quantity": {
+    "black": 6,
+    "white": 24,
+    "total": 30
+  }
+}

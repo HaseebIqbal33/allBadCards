@@ -1,0 +1,303 @@
+{
+  "pack": {
+    "name": "Cards and Punishment Vol. One",
+    "id": "cards_and_punishment_vol_1"
+  },
+  "black": [
+    {
+      "content": "______ a day keeps the doctor away.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ brings all the boys to the yard.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ is the new ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "______ is why we can't have nice things.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ shaped my childhood, making me the person I am today.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Before hot dogs, Kobayashi was the champion of devouring ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Earth! Fire! Wind! Water! ______! By your powers combined, I am Captain ______!",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Everything is awesome! Everything is cool when you're part of ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Fifth base will henceforth be considered ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Fuck this. I'm going to create my own United States of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Fuck, marry, kill.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "Gone are the days of the rock star. Now it's all about sex, drugs, and ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I came up with a new dance move. I call it \"______\".",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I learned about ______ in high school and ______ in college.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I liked ______ before it was cool.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I would rather have my \"O\" face resemble ______ than ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I'm straight, but ______ could turn me gay.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "If there's something strange in your neighborhood, who you gonna call?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In space, no one can hear ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "It rubs ______ on its skin or else it gets ______ again.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "It's dangerous to go alone! Take this.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "It's dangerous to go alone!  Take ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Last night I dreamt of an alternate universe where everyone shit ______ and puked ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Last night was totally epic and can only be explained through the eloquence of hashtags! #______ #______ #______.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "Leonardo DiCaprio will finally win an Oscar for his role in ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My perfect day would have to include ______ followed by ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "On the next episode of My Strange Addiction, Josh just can't get enough of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "On the next episode of “My Strange Addiction”, Josh just can't get enough of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "One nation, under ______, with ______ and ______ for all.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "One nation, under ______, indivisible, with ______ and ______ for all.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "People have started eating ____ because it's organic and gluten-free.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The area was evacuated and deemed uninhabitable due to ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The snozberries taste like ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The snozzberries taste like ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What convinced me to stop believing in a higher power?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What gave me the 24-hour runs?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When life hands you ______, make ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "You had me at \"______\".",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You might be a redneck if you use ______ for ______.",
+      "pick": 2,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A denture-free blowjob from Betty White.",
+    "A donkey punch.",
+    "A face only a mother could love.",
+    "A participation award.",
+    "A retirement home orgy.",
+    "A reverse mermaid pathetically kicking around in a circle.",
+    "A rug that really ties the room together.",
+    "A unicorn with a unibrow riding a unicycle.",
+    "Accidentally drunk sexting Dad.",
+    "Accidentally drunk sexting your parents.",
+    "Amateur acupuncture.",
+    "An \"accidental\" facial.",
+    "An 89-year-old woman with time and gravity-affected breast implants jumping rope.",
+    "An empty, neutered ballsack.",
+    "An extravagant merkin.",
+    "Another Saturday night alone, a jar full of peanut butter, and my dog.",
+    "Asking a morbidly obese woman if she's pregnant.",
+    "Beans, beans, the magical fruit.",
+    "Being dumber than a 5th grader.",
+    "Bill Fucking Murray.",
+    "Bill's penis in and around Hillary's mouth.",
+    "Blowing into a Nintendo cartridge and passing out.",
+    "Butt barf.",
+    "Buying a dog as a practice child and failing miserably.",
+    "Buying a dog as a practice kid and colossally failing.",
+    "Consuming undercooked eggs or poultry.",
+    "Danger zone!",
+    "Defiling new car smell.",
+    "Deliberately spreading STDs.",
+    "Disguising a queef as a fart.",
+    "Docking.",
+    "Donkey punching Donkey Kong.",
+    "Dressing as yourself for Halloween.",
+    "Dropping the soap.",
+    "Ducking autocorrect.",
+    "Either a queef or a fart.",
+    "Failing to honor my 5th grade D.A.R.E. agreement.",
+    "Farmers who fuck goats.",
+    "Finding a used Band-Aid in the pool.",
+    "Forgetting about Dre.",
+    "Harriet Tubman underboob.",
+    "Having a big toe for all of your toes.",
+    "Having a big toe for all ten toes.",
+    "Immediate regret.",
+    "Ironic facial hair.",
+    "Junk in the trunk.",
+    "Kitten mittens.",
+    "Lena Dunham's voluptuous muffin top.",
+    "Literally fucking the shit out of someone.",
+    "Love.",
+    "Luigi's inferiority complex.",
+    "Male pattern baldness on a female.",
+    "Masking failures with religion.",
+    "Masturbating in the produce section.",
+    "Methin' around.",
+    "Michael Cera finally hitting puberty,",
+    "Mistaking sriracha for contact lens solution.",
+    "Movie theater handjobs.",
+    "My windowless white van.",
+    "Naked sumo jello wrestling.",
+    "Not playing this game because you're Mormon.",
+    "Overdosing on life.",
+    "Owen Wilson's nose.",
+    "Pineapple-infused cum.",
+    "Poking a fatty on Facebook.",
+    "Premature defecation.",
+    "Pulling the plug.",
+    "Shotgunning a Four Loco®, Bro!",
+    "Shotgunning a Four Loko, bro!",
+    "Showing that bitch a whole new world.",
+    "Simultaneous diarrhea and vomiting.",
+    "Simultaneous diarrhea and vomitting.",
+    "Sniffing scented markers for a quick fix.",
+    "Snorting the fine line between genius and insanity.",
+    "Sober sex.",
+    "Some type of palsy.",
+    "Someone who looks retarded but isn't.",
+    "Stinging urination.",
+    "Taking our jobs.",
+    "The antidote.",
+    "The douchebag whose humor consists solely of quoting movies, especially Anchorman.",
+    "The ever-worsening wrath of the hangover gods.",
+    "The Flying Spaghetti Monster.",
+    "The Human Centipede: infinity edition.",
+    "The Itty Bitty Titty Committee.",
+    "The little bastard kicking the back of your airplane seat while his parents do absolutely fucking nothing.",
+    "The restraining order.",
+    "The secret sauce on my mystery meat.",
+    "The sound of stirring macaroni and cheese.",
+    "The TSA guy stroking it to your naked body scan in the back room.",
+    "The worst case of hemorrhoids I have ever seen.",
+    "This shit again.",
+    "Wiping back to front."
+  ],
+  "quantity": {
+    "black": 39,
+    "white": 94,
+    "total": 133
+  }
+}

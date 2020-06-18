@@ -1,0 +1,62 @@
+{
+  "pack": {
+    "name": "PAX East 2014",
+    "id": "pax2014_east"
+  },
+  "black": [
+    {
+      "content": "______ is way better in ______ mode.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "(Heavy breathing) Luke, I am ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Unfortunately, Neo, no one can be told what ______ is. You have to see it for yourself.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What the hell?! They added a 6/6 with flying, trample and ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You think you have defeated me? Well, let's see how you handle ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A giant mechanical bird with a tragic backstory.",
+    "A grumpy old Harrison Ford who'd rather be doing anything else.",
+    "All of the good times and premium gaming entertainment available to you in the Kickstarter room.",
+    "Attacking from Kamchatka.",
+    "Collecting all seven power crystals.",
+    "Demons and shit.",
+    "Endless ninjas.",
+    "Futuristic death sports.",
+    "Getting bitten by a radioactive spider and then battling leukemia for 30 years.",
+    "KHAAAAAAAAAN!",
+    "Lagging out.",
+    "Mistakenly hitting on a League of Legends statue.",
+    "Separate drinking fountains for dark elves.",
+    "Ser Jorah Mormont's cerulean-blue balls.",
+    "Stuffing my balls into a Sega Genesis and pressing the power button.",
+    "Taking 2d6 emotional damage.",
+    "The imagination of Peter Jackson.",
+    "The old gods.",
+    "The pure, Zen-like state that exists between micro and macro.",
+    "The Star Wars universe.",
+    "Whatever Final Fantasy bullshit happened this year.",
+    "Xena, Warrior Princess."
+  ],
+  "quantity": {
+    "black": 5,
+    "white": 22,
+    "total": 27
+  }
+}

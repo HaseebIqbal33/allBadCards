@@ -1,0 +1,217 @@
+{
+  "pack": {
+    "name": "Third Expansion",
+    "id": "third_expansion"
+  },
+  "black": [
+    {
+      "content": "______: Hours of fun. Easy to use. Perfect for ______!",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "______. Awesome in theory, kind of a mess in practice.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "A successful job interview begins with a firm handshake and ends with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "After months of practice with ______, I think I’m finally ready for ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "And what did you bring for show and tell?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "As part of his contract, Prince won’t perform without ______ in his dressing room.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "As part of his daily regimen, Anderson Cooper sets aside 15 minutes for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Call the law offices of Goldstein & Goldstein, because no one should have to tolerate ______ in the workplace.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "During high school I never really fit in until I found ______ club.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Finally! A service that delivers ______ right to your door.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Having problems with ______? Try ______!",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Hey baby, come back to my place and I’ll show you ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I’m not like the rest of you. I’m too rich and busy for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In the seventh circle of Hell, sinners must endure ______ for all eternity.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Listen, son. If you want to get involved with ______, I won’t stop you. Just steer clear of ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Lovin’ you is easy ’cause you’re ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Money can’t buy me love, but it can buy me ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My gym teacher got fired for adding ______ to the obstacle course.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My life is ruled by a vicious cycle of ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "The blind date was going horribly until we discovered our shared interest in ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "To prepare for his upcoming role, Daniel Day-Lewis immersed himself in the world of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Turns out that ______-Man was neither the hero we needed nor wanted.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What left this stain on my couch?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When you get right down to it, ______ is just ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "With enough time and pressure, ______ will turn into ______.",
+      "pick": 2,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A black male in his early 20s, last seen wearing a hoodie.",
+    "A boo-boo.",
+    "A botched circumcision.",
+    "A cat video so cute that your eyes roll back and your spine slides out of your anus.",
+    "A cop who is also a dog.",
+    "A greased-up Matthew McConaughey.",
+    "A Japanese toaster you can fuck.",
+    "A lamprey swimming up the toilet and latching onto your taint.",
+    "A pile of squirming bodies.",
+    "A PowerPoint presentation.",
+    "A spontaneous conga line.",
+    "A surprising amount of hair.",
+    "A vagina that leads to another dimension.",
+    "Actually getting shot, for real.",
+    "All my friends dying.",
+    "An all-midget production of Shakespeare’s Richard III.",
+    "An ass disaster.",
+    "An unstoppable wave of fire ants.",
+    "Bill Clinton, naked on a bearskin rug with a saxophone.",
+    "Blood farts.",
+    "Blowing some dudes in an alley.",
+    "Buying the right pants to be cool.",
+    "Chugging a lava lamp.",
+    "Cock.",
+    "Crying into the pages of Sylvia Plath.",
+    "Demonic possession.",
+    "Disco fever.",
+    "Drinking ten 5-hour ENERGYs® to get fifty continuous hours of energy.",
+    "Dying alone and in pain.",
+    "Eating Tom Selleck’s mustache to gain his powers.",
+    "Filling every orifice with butterscotch pudding.",
+    "Fisting.",
+    "Flying robots that kill people.",
+    "Gay aliens.",
+    "Getting your dick stuck in a Chinese finger trap with another dick.",
+    "Girls that always be textin’.",
+    "Going around punching people.",
+    "Having sex on top of a pizza.",
+    "Having shotguns for legs.",
+    "Indescribable loneliness.",
+    "Jumping out at people.",
+    "Letting everyone down.",
+    "Mufasa’s death scene.",
+    "My manservant, Claude.",
+    "Not contributing to society in any meaningful way.",
+    "Not having sex.",
+    "Nothing.",
+    "Putting an entire peanut butter and jelly sandwich into the VCR.",
+    "Racial profiling.",
+    "Reverse cowgirl.",
+    "Roland the Farter, flatulist to the king.",
+    "Running naked through a mall, pissing and shitting everywhere.",
+    "Samuel L. Jackson.",
+    "Screaming like a maniac.",
+    "Self-flagellation.",
+    "Shutting the fuck up.",
+    "Slapping a racist old lady.",
+    "Sneezing, farting, and cumming at the same time.",
+    "Some douche with an acoustic guitar.",
+    "Some kind of bird-man.",
+    "Spending lots of money.",
+    "That ass.",
+    "The entire Internet.",
+    "The Harlem Globetrotters.",
+    "The Land of Chocolate.",
+    "The moist, demanding chasm of his mouth.",
+    "The primal, ball-slapping sex your parents are having right now.",
+    "The Quesadilla Explosion Salad™ from Chili’s.®",
+    "The systematic destruction of an entire people and their way of life.",
+    "The thin veneer of situational causality that underlies porn.",
+    "The way white people is.",
+    "Three months in the hole.",
+    "Unlimited soup, salad, and breadsticks.",
+    "Velcro™.",
+    "Vietnam flashbacks.",
+    "Vomiting mid-blowjob.",
+    "Warm, velvety muppet sex."
+  ],
+  "quantity": {
+    "black": 25,
+    "white": 77,
+    "total": 102
+  }
+}

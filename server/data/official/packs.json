@@ -1,0 +1,625 @@
+{
+  "packs": [
+    {
+      "name": "Family Edition",
+      "id": "family_edition",
+      "quantity": {
+        "black": 51,
+        "white": 349,
+        "total": 400
+      }
+    },
+    {
+      "name": "2012 Holiday Pack",
+      "id": "2012_holiday_pack",
+      "quantity": {
+        "black": 7,
+        "white": 23,
+        "total": 30
+      }
+    },
+    {
+      "name": "2013 Holiday Pack",
+      "id": "2013_holiday_pack",
+      "quantity": {
+        "black": 9,
+        "white": 21,
+        "total": 30
+      }
+    },
+    {
+      "name": "2014 Holiday Pack",
+      "id": "2014_holiday_pack",
+      "quantity": {
+        "black": 7,
+        "white": 24,
+        "total": 31
+      }
+    },
+    {
+      "name": "90s Nostalgia Pack",
+      "id": "90s_nostalgia_pack",
+      "quantity": {
+        "black": 7,
+        "white": 25,
+        "total": 32
+      }
+    },
+    {
+      "name": "Absurd Box Expansion",
+      "id": "absurd_box_expansion",
+      "quantity": {
+        "black": 45,
+        "white": 255,
+        "total": 300
+      }
+    },
+    {
+      "name": "Bigger Black Box Expansion",
+      "id": "bigger_black_box_expansion",
+      "quantity": {
+        "black": 0,
+        "white": 23,
+        "total": 23
+      }
+    },
+    {
+      "name": "Blackbox Press Kit",
+      "id": "blackbox_press_kit",
+      "quantity": {
+        "black": 0,
+        "white": 1,
+        "total": 1
+      }
+    },
+    {
+      "name": "Blue Box Expansion",
+      "id": "blue_box_expansion",
+      "quantity": {
+        "black": 81,
+        "white": 234,
+        "total": 315
+      }
+    },
+    {
+      "name": "Cards Against Humanity Saves America",
+      "id": "cah_saves_america",
+      "quantity": {
+        "black": 7,
+        "white": 23,
+        "total": 30
+      }
+    },
+    {
+      "name": "Canadian Conversion Kit",
+      "id": "canadian_conversion_kit",
+      "quantity": {
+        "black": 7,
+        "white": 22,
+        "total": 29
+      }
+    },
+    {
+      "name": "Card Lab Expansion",
+      "id": "card_lab_expansion",
+      "quantity": {
+        "black": 73,
+        "white": 963,
+        "total": 1036
+      }
+    },
+    {
+      "name": "College Pack",
+      "id": "college_pack",
+      "quantity": {
+        "black": 6,
+        "white": 24,
+        "total": 30
+      }
+    },
+    {
+      "name": "Dad Pack",
+      "id": "dad_pack",
+      "quantity": {
+        "black": 6,
+        "white": 24,
+        "total": 30
+      }
+    },
+    {
+      "name": "Desert Bus For Hope Pack",
+      "id": "desert_bus_for_hope_pack",
+      "quantity": {
+        "black": 5,
+        "white": 19,
+        "total": 24
+      }
+    },
+    {
+      "name": "Design Pack",
+      "id": "design_pack",
+      "quantity": {
+        "black": 0,
+        "white": 29,
+        "total": 29
+      }
+    },
+    {
+      "name": "Fantasy Pack",
+      "id": "fantasy_pack",
+      "quantity": {
+        "black": 6,
+        "white": 26,
+        "total": 32
+      }
+    },
+    {
+      "name": "Fascism Pack",
+      "id": "fascism_pack",
+      "quantity": {
+        "black": 2,
+        "white": 15,
+        "total": 17
+      }
+    },
+    {
+      "name": "Fifth Expansion",
+      "id": "fifth_expansion",
+      "quantity": {
+        "black": 25,
+        "white": 78,
+        "total": 103
+      }
+    },
+    {
+      "name": "First Expanion",
+      "id": "first_expansion",
+      "quantity": {
+        "black": 28,
+        "white": 112,
+        "total": 140
+      }
+    },
+    {
+      "name": "Food Pack",
+      "id": "food_pack",
+      "quantity": {
+        "black": 6,
+        "white": 24,
+        "total": 30
+      }
+    },
+    {
+      "name": "Fourth Expansion",
+      "id": "fourth_expansion",
+      "quantity": {
+        "black": 31,
+        "white": 71,
+        "total": 102
+      }
+    },
+    {
+      "name": "Geek Pack",
+      "id": "geek_pack",
+      "quantity": {
+        "black": 6,
+        "white": 24,
+        "total": 30
+      }
+    },
+    {
+      "name": "Gen Con 2018 Midterm Election Pack",
+      "id": "gencon2018_midterm_election_pack",
+      "quantity": {
+        "black": 2,
+        "white": 16,
+        "total": 18
+      }
+    },
+    {
+      "name": "Green Box Expansion",
+      "id": "green_box_expansion",
+      "quantity": {
+        "black": 56,
+        "white": 246,
+        "total": 302
+      }
+    },
+    {
+      "name": "Hanukkah LOL Pack",
+      "id": "hanukkah_lol_pack",
+      "quantity": {
+        "black": 0,
+        "white": 7,
+        "total": 7
+      }
+    },
+    {
+      "name": "Hawaii 2 Safe Pack",
+      "id": "hawaii_2_safe_pack",
+      "quantity": {
+        "black": 0,
+        "white": 2,
+        "total": 2
+      }
+    },
+    {
+      "name": "Hidden Compartment Pack",
+      "id": "hidden_compartment_pack",
+      "quantity": {
+        "black": 0,
+        "white": 15,
+        "total": 15
+      }
+    },
+    {
+      "name": "House of Cards Pack",
+      "id": "house_of_cards_pack",
+      "quantity": {
+        "black": 9,
+        "white": 16,
+        "total": 25
+      }
+    },
+    {
+      "name": "Jack White Show Pack",
+      "id": "jack_white_show_pack",
+      "quantity": {
+        "black": 1,
+        "white": 6,
+        "total": 7
+      }
+    },
+    {
+      "name": "Jew Pack / Chosen People Pack",
+      "id": "jew_pack",
+      "quantity": {
+        "black": 5,
+        "white": 25,
+        "total": 30
+      }
+    },
+    {
+      "name": "Main Deck",
+      "id": "main_deck",
+      "quantity": {
+        "black": 282,
+        "white": 1255,
+        "total": 1537
+      }
+    },
+    {
+      "name": "Mass Effect Pack",
+      "id": "mass_effect_pack",
+      "quantity": {
+        "black": 4,
+        "white": 10,
+        "total": 14
+      }
+    },
+    {
+      "name": "Midterm Pack 2018",
+      "id": "midterm_pack_2018",
+      "quantity": {
+        "black": 2,
+        "white": 16,
+        "total": 18
+      }
+    },
+    {
+      "name": "PAX 2012 \"Oops\" Kit",
+      "id": "pax2012_oops_kit",
+      "quantity": {
+        "black": 5,
+        "white": 9,
+        "total": 14
+      }
+    },
+    {
+      "name": "PAX Prime 2013",
+      "id": "pax2013_prime",
+      "quantity": {
+        "black": 7,
+        "white": 37,
+        "total": 44
+      }
+    },
+    {
+      "name": "PAX East 2013 Promo Pack A",
+      "id": "pax2013_promo_pack_A",
+      "quantity": {
+        "black": 2,
+        "white": 8,
+        "total": 10
+      }
+    },
+    {
+      "name": "PAX East 2013 Promo Pack B",
+      "id": "pax2013_promo_pack_B",
+      "quantity": {
+        "black": 2,
+        "white": 8,
+        "total": 10
+      }
+    },
+    {
+      "name": "PAX East 2013 Promo Pack C",
+      "id": "pax2013_promo_pack_C",
+      "quantity": {
+        "black": 2,
+        "white": 8,
+        "total": 10
+      }
+    },
+    {
+      "name": "PAX Prime 2014 Custom Printed Cards",
+      "id": "pax2014_custom_printed_cards",
+      "quantity": {
+        "black": 1,
+        "white": 105,
+        "total": 106
+      }
+    },
+    {
+      "name": "PAX East 2014",
+      "id": "pax2014_east",
+      "quantity": {
+        "black": 5,
+        "white": 22,
+        "total": 27
+      }
+    },
+    {
+      "name": "PAX East 2014 - Panel Cards",
+      "id": "pax2014_east_panel_cards",
+      "quantity": {
+        "black": 2,
+        "white": 8,
+        "total": 10
+      }
+    },
+    {
+      "name": "PAX Prime 2014 - Panel Cards",
+      "id": "pax2014_prime_panel_cards",
+      "quantity": {
+        "black": 5,
+        "white": 5,
+        "total": 10
+      }
+    },
+    {
+      "name": "PAX Prime 2015 Food Pack A (Mango)",
+      "id": "pax2015_food_pack_A",
+      "quantity": {
+        "black": 2,
+        "white": 8,
+        "total": 10
+      }
+    },
+    {
+      "name": "PAX Prime 2015 Food Pack B (Coconut)",
+      "id": "pax2015_food_pack_B",
+      "quantity": {
+        "black": 2,
+        "white": 8,
+        "total": 10
+      }
+    },
+    {
+      "name": "PAX Prime 2015 Food Pack C (Cherry)",
+      "id": "pax2015_food_pack_C",
+      "quantity": {
+        "black": 2,
+        "white": 8,
+        "total": 10
+      }
+    },
+    {
+      "name": "Period Pack",
+      "id": "period_pack",
+      "quantity": {
+        "black": 6,
+        "white": 24,
+        "total": 30
+      }
+    },
+    {
+      "name": "Trump Bug Out Bag / Post-Trump Pack",
+      "id": "post_trump_pack",
+      "quantity": {
+        "black": 3,
+        "white": 22,
+        "total": 25
+      }
+    },
+    {
+      "name": "Pride Pack",
+      "id": "pride_pack",
+      "quantity": {
+        "black": 5,
+        "white": 25,
+        "total": 30
+      }
+    },
+    {
+      "name": "Procedurally Generated Expansion",
+      "id": "procedurally_expansion",
+      "quantity": {
+        "black": 0,
+        "white": 260,
+        "total": 260
+      }
+    },
+    {
+      "name": "Red Box Expansion",
+      "id": "red_box_expansion",
+      "quantity": {
+        "black": 73,
+        "white": 267,
+        "total": 340
+      }
+    },
+    {
+      "name": "Reject Pack",
+      "id": "reject_pack",
+      "quantity": {
+        "black": 8,
+        "white": 16,
+        "total": 24
+      }
+    },
+    {
+      "name": "Reject Pack 2",
+      "id": "reject_pack_2",
+      "quantity": {
+        "black": 10,
+        "white": 24,
+        "total": 34
+      }
+    },
+    {
+      "name": "Retail Mini Pack",
+      "id": "retail_mini_pack",
+      "quantity": {
+        "black": 2,
+        "white": 3,
+        "total": 5
+      }
+    },
+    {
+      "name": "Retail Product Pack",
+      "id": "retail_product_pack",
+      "quantity": {
+        "black": 1,
+        "white": 19,
+        "total": 20
+      }
+    },
+    {
+      "name": "Sci-Fi Pack",
+      "id": "sci_fi_pack",
+      "quantity": {
+        "black": 7,
+        "white": 23,
+        "total": 30
+      }
+    },
+    {
+      "name": "Science Pack",
+      "id": "science_pack",
+      "quantity": {
+        "black": 7,
+        "white": 23,
+        "total": 30
+      }
+    },
+    {
+      "name": "Seasons Greetings Pack",
+      "id": "seasons_greetings_pack",
+      "quantity": {
+        "black": 7,
+        "white": 23,
+        "total": 30
+      }
+    },
+    {
+      "name": "Second Expansion",
+      "id": "second_expansion",
+      "quantity": {
+        "black": 28,
+        "white": 84,
+        "total": 112
+      }
+    },
+    {
+      "name": "Sixth Expansion",
+      "id": "sixth_expansion",
+      "quantity": {
+        "black": 26,
+        "white": 77,
+        "total": 103
+      }
+    },
+    {
+      "name": "Tabletop Pack",
+      "id": "tabletop_pack",
+      "quantity": {
+        "black": 3,
+        "white": 12,
+        "total": 15
+      }
+    },
+    {
+      "name": "Theatre Pack",
+      "id": "theatre_pack",
+      "quantity": {
+        "black": 5,
+        "white": 25,
+        "total": 30
+      }
+    },
+    {
+      "name": "Theatre Pack - CATS Musical Pack",
+      "id": "theatre_pack_cats_musical_pack",
+      "quantity": {
+        "black": 3,
+        "white": 27,
+        "total": 30
+      }
+    },
+    {
+      "name": "Third Expansion",
+      "id": "third_expansion",
+      "quantity": {
+        "black": 25,
+        "white": 77,
+        "total": 102
+      }
+    },
+    {
+      "name": "UK Conversion Kit",
+      "id": "uk_conversion_kit",
+      "quantity": {
+        "black": 20,
+        "white": 74,
+        "total": 94
+      }
+    },
+    {
+      "name": "Vote For Hillary Pack",
+      "id": "vote_for_hillary_pack",
+      "quantity": {
+        "black": 3,
+        "white": 12,
+        "total": 15
+      }
+    },
+    {
+      "name": "Vote For Trump Pack",
+      "id": "vote_for_trump_pack",
+      "quantity": {
+        "black": 3,
+        "white": 12,
+        "total": 15
+      }
+    },
+    {
+      "name": "Weed Pack",
+      "id": "weed_pack",
+      "quantity": {
+        "black": 5,
+        "white": 25,
+        "total": 30
+      }
+    },
+    {
+      "name": "World Wide Web Pack",
+      "id": "www_pack",
+      "quantity": {
+        "black": 9,
+        "white": 21,
+        "total": 30
+      }
+    }
+  ]
+}

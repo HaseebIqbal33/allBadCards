@@ -1,0 +1,76 @@
+{
+  "pack": {
+    "name": "House of Cards Pack",
+    "id": "house_of_cards_pack"
+  },
+  "black": [
+    {
+      "content": "A wise man said, \"Everything is about sex. Except sex. Sex is about ______.\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Because you enjoyed ______, we thought you'd like ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Cancel all my meetings. We've got a situation with ______ that requires my immediate attention.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Corruption. Betrayal. ______. Coming soon to Netflix, \"House of ______.\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I can't believe Netflix is using ______ to promote House of Cards.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'm not going to lie. I despise ______. There, I said it.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "If you need him to, Remy Danton can pull some strings and get you ______, but it'll cost you.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Our relationship is strictly professional. Let's not complicate things with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "We're not like other news organizations. Here at Slugline, we welcome ______ in the office.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "25 shitty jokes about House of Cards.",
+    "A childless marriage.",
+    "A homoerotic subplot.",
+    "A much younger woman.",
+    "An older man.",
+    "An origami swan that's some kind of symbol?",
+    "Carbon monoxide poisoning.",
+    "Discharging a firearm in a residential area.",
+    "Forcing a handjob on a dying man.",
+    "Getting eaten out while on the phone with Dad.",
+    "Making it look like a suicide.",
+    "My constituents.",
+    "Punching a congressman in the face.",
+    "Ribs so good they transcend race and class.",
+    "Strangling a dog to make a point to the audience.",
+    "The sensitive European photographer who's fucking my wife."
+  ],
+  "quantity": {
+    "black": 9,
+    "white": 16,
+    "total": 25
+  }
+}

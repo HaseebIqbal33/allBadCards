@@ -1,0 +1,42 @@
+{
+  "pack": {
+    "name": "Vote For Trump Pack",
+    "id": "vote_for_trump_pack"
+  },
+  "black": [
+    {
+      "content": "According to Arizona's stand-your-ground law, you're allowed to shoot someone if they're ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "It's 3AM.  The red phone rings.  It's ______.  Who do you want answering?",
+      "pick": 2,
+      "draw": 2
+    },
+    {
+      "content": "Trump's great!  Trump's got ______.  I love that.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A liberal bias.",
+    "Actually voting for Donald Trump to be President of the actual United States.",
+    "Conservative talking points.",
+    "Courageousely going ahead with that racist comment.",
+    "Dispelling this fiction that Barack Obama doesn't know what he's doing.",
+    "Full-on socialism.",
+    "Growing up and becoming a Republican.",
+    "Hating Hilary Clinton.",
+    "Jeb!",
+    "Shouting the loudest.",
+    "Sound fiscal policy.",
+    "The good, hardworking people of Dubuque, Iowa."
+  ],
+  "quantity": {
+    "black": 3,
+    "white": 12,
+    "total": 15
+  }
+}

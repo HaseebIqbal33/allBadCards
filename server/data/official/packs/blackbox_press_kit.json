@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "name": "Blackbox Press Kit",
+    "id": "blackbox_press_kit"
+  },
+  "black": [],
+  "white": [
+    "Lighting a circle of black candles and trying every flavor of Doritos®."
+  ],
+  "quantity": {
+    "black": 0,
+    "white": 1,
+    "total": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "name": "Hanukkah LOL Pack",
+    "id": "hanukkah_lol_pack"
+  },
+  "black": [],
+  "white": [
+    "A smile or just a nod.",
+    "All the accumulated culture of a people.",
+    "Being young and living in New York City.",
+    "The dark side.",
+    "The gross inequalities of our society.",
+    "The wisdom of the crowds.",
+    "Uninformed knuckle-dragging low information voters."
+  ],
+  "quantity": {
+    "black": 0,
+    "white": 7,
+    "total": 7
+  }
+}

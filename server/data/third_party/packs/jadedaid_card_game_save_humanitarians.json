@@ -1,0 +1,349 @@
+{
+  "pack": {
+    "name": "JadedAid: A Card Game to Save Humanitarians",
+    "id": "jadedaid_card_game_save_humanitarians"
+  },
+  "black": [
+    {
+      "content": "When the US State Department was evacuated from Yemen, they left a warehouse full of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "This hashtag will save the world: #______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Our proposal win themes are ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Why was the low-level diplomat kicked out of the country?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The most popular Google search in rural Zambia is \"______.\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Sustainability will be assured through a razor-sharp focus on ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Our theory of change: If ______, then ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Oh joy! Another workshop on ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "We're not so much faith-based as ______-based.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What is the 18th Sustainable Development Goal?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "USAID brought ______ to the people of Haiti when they really needed ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Save the Children will now be saving ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'm pretty sure \"capacity building\" is just a euphemism for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Ebola was eradicated by injecting ______ with ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Buy one, give one should be reserved for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The best in-kind donation ever received was ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "As of today, all local staff will be paid in ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Angelina Jolie will now be special envoy for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ is our new performance indicator.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What is USAID's guilty pleasure?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Vegemite: easier to spread than ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The humanitarian situation in Syria reminds me of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I took inspiration from ______ where I started ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "______ is not reimbursable.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ is the next development panacea.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What is DFID's secret weapon against USAID dominance?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "GSMA is now promoting smartphones for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The data collected with SurveyCTO revealed that the project is getting the greatest results from ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The Gates Foundation is launching a small grants program to eradicate ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "To the surprise of funders, Joseph Mbuntu spent the $10000 USD he received from GiveDirectly on ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's the secret to peace in the Middle East?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I spent all my hazard pay on ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My NGO name means ______ in Kiswahili.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My only real Peace Corps accomplishment was ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The last mile is paved with ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "\"Hello Mister!\"",
+    "$1.25 per day",
+    "100 foreskins in a bucket",
+    "A bad blood-to-stool ratio",
+    "A bottomless pit of need",
+    "A career in contract compliance",
+    "A Celebrity Deathmatch between Jeff Sachs and Bill Easterly",
+    "A child's unwashed hands",
+    "A fire drill in the Ronald Reagan Building",
+    "A gift of live chickens and a stalk of plantains",
+    "A hand job from a monkey",
+    "A loan shark in micro lender's clothing",
+    "A market-driven approach",
+    "A one-way feedback loop",
+    "A photogenic child with flies and a distended belly",
+    "A really solid shit",
+    "A research grant to find evidence that evidence-based research for policy makers is used by policy makers to make evidence-based policy",
+    "A sinking boat full of brown people",
+    "A vial of Bono's tears",
+    "A white SUV",
+    "A year's salary from the Shuttleworth Foundation to do whatever the fuck you want",
+    "Actually giving a shit",
+    "AIDS",
+    "An educated angry African",
+    "An external drive full of ripped TV shows",
+    "An iPhone at the bottom of a pit latrine",
+    "An unpronounceable acronym",
+    "An updated, well-organized spreadsheet",
+    "Another goddamn cookstove",
+    "Antimalarial-induced hallucinations",
+    "Asian ass",
+    "Avoiding missionaries",
+    "Ayn Rand",
+    "Being a gay Mormon in Uganda",
+    "Beyonic's cashless utopia",
+    "Bicycle-powered water pumps pedaled by malnourished 8-year-olds",
+    "Bleeding-heart humanitarianism",
+    "Bombing in the name of freedom",
+    "Botflies in my boxers",
+    "Brain parasites as a behavior change methodology",
+    "Bribes paid in M-PESA",
+    "Bribing the local ethics review board",
+    "Broken condoms",
+    "Bush meat",
+    "Carefully curating a social media presence to look cool",
+    "China!",
+    "Coming to terms with the fact that your intervention is the problem",
+    "Contracting AIDS from a cute rebel leader",
+    "Dennis Rodman diplomacy",
+    "Diplomatic pouch privileges",
+    "Disneyland Darfur",
+    "Disruptive Innovation",
+    "Ebola juices",
+    "Emergency Sex",
+    "Ending peace and harmony by introducing democracy and elections",
+    "Explaining tat Chad is a country, not a person",
+    "Fecal sludge",
+    "Feeling superior to tourists for knowing how to say more than \"thank you\" in the local language",
+    "George Clooney's wife",
+    "Getting high with indigenous communities",
+    "Getting upgraded to business class",
+    "Getting your vibrator confiscated a the airport",
+    "Giardia burps",
+    "Gin o'clock",
+    "Giving a damn about genocide",
+    "Giving AIDS to prostitutes",
+    "Giving up any hope of a stable relationship",
+    "GIZ",
+    "Going blind from local moonshine",
+    "Going local",
+    "Good old-fashioned colonial values",
+    "Growing a beard and waving a Kalashnikov",
+    "Hanging up and pretending you ran out of mobile credit",
+    "Helpies - selfies to brag about helping",
+    "His Excellency, President for Life, Field Marshal Al Hadji Doctor Idi Amin Dada, VC, DSO, MC, Lord of All the Beasts of the Earth and Fishes of the Seas and Conqueror of the British Empire in Africa in General and Uganda in Particular",
+    "Hoarding the only two squares of toilet paper left",
+    "Humanitarians of Tinder",
+    "Hypocrisy",
+    "In the bush",
+    "In-kind donations of hookers and coke",
+    "Indigenous alcohol",
+    "Ineffective cascaded training",
+    "Interrupting the fecal-oral cycle",
+    "ISIL's YouTube channel",
+    "Learning to poop in a Ziploc bag",
+    "Marrying local",
+    "Measuring time as an indicator",
+    "Microloans to start a brothel",
+    "Mid-Upper Arm Circumference",
+    "Missing 1K status by 500 miles",
+    "Monsanto.org",
+    "My well-hung Senegalese boyfriend",
+    "My white in shining armor",
+    "Nepotism",
+    "Organizational restructuring",
+    "Orphanage tourism",
+    "Per diems",
+    "Phase 17: Establish local ownership",
+    "Pleasing the donor at any cost",
+    "Post-Traumatic Stress Disorder",
+    "Poverty porn",
+    "Propagating heinous American stereotypes",
+    "Puking into the shower while sitting on the toilet",
+    "Real-time data collection",
+    "Reserving DFID funds for the abortions",
+    "Robert Mugabe",
+    "Saving Africa one adoption at a time",
+    "Seahawks Super Bowl XLIX Championship t-shirts",
+    "Sean Penn's Glock",
+    "Secret Service hookers",
+    "Secretly celebrating when disasters occurs because you don't have to live in your parent's basement anymore",
+    "Sexpats",
+    "Sexy UNHAS flight attendants",
+    "Shagging in a flak jacket",
+    "Sharts",
+    "Shooting Cecil the lion",
+    "Skype sex with a bad Internet connection",
+    "Sleeping with your supervisors",
+    "Sobbing while your host family eats your dog for dinner",
+    "Somali pirates",
+    "Struggling with the fact that without child labor, there'd be no cocoa",
+    "Sushi in a landlocked country",
+    "Sustainability",
+    "T-shirts!",
+    "T.I.A.",
+    "Talking about food security over caviar and fine wine",
+    "Tea breaks",
+    "That time the UN recognized Palestine",
+    "The bloodshot eyes of a boy soldier",
+    "The British",
+    "The dysentery diet",
+    "The economic vacuum left by a UN peacekeeping mission close down",
+    "The eternal tension between prostitution and entrepreneurship",
+    "The fourth cup of tea",
+    "The girl-child",
+    "The one honest Nigerian official",
+    "The resource curse",
+    "The satisfaction that comes with finding the closest workshop venue outside the capitol that qualifies for per diems",
+    "The sex worker value chain",
+    "The smug sense of self-satisfaction",
+    "The sudden realization that your theory of change is a crock of shit",
+    "The third gender",
+    "The warm embrace of malaria",
+    "The White Maasai",
+    "The White Savior Complex",
+    "Three large sheep",
+    "Tragically single middle-aged women",
+    "Turning human waste into clean energy",
+    "Two guys with AK-47s",
+    "Ugali",
+    "Ushahidi",
+    "Using fake polio vaccines to find Osama bin Laden",
+    "Value for money",
+    "Vandalizing a Mandela statue",
+    "Village hooch",
+    "Village justice",
+    "Voluntourism",
+    "Whispering under your breath that the US is not the center of the world",
+    "Women dancing and clapping for an arriving fleet of Land Cruisers"
+  ],
+  "quantity": {
+    "black": 35,
+    "white": 159,
+    "total": 194
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "pack": {
+    "name": "Voter's Choice: The Second Expansion",
+    "id": "voters_choice_second_expansion"
+  },
+  "black": [
+    {
+      "content": "______, the newest My Little Pony character.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Ah, High School. A place for ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Hello! Do you have a moment to talk about our lord and savior ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Hypothesis: ______\nExperiment: ______\nConclusion: ______",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "I get to pick a porn name? Then I want to be called ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I was caught naked eating ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'm too rich and famous for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My strangest date ever involved ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Nobody seems to understand my religious philosophy at all. Especially the part about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Screw the rules, I have ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Sometimes I think about having sex with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The beloved leader, Kim Jong Un, astounds his people with the invention of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Using ______ is my secret beauty tip.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What does Obama like on his chips?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When the stripper bent over and placed my nose squarely between her cheeks, it smelled like cotton candy and ______?",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A broken heart, an empty wallet, and a bouquet of chlamydia.",
+    "A dick move.",
+    "A moist towelette.",
+    "A Tunnel of Gloryholes.",
+    "A yeast infection.",
+    "An itchy nipple.",
+    "Finally catching a leprechaun and then finding out you'll be taking his Lucky Charms, dry.",
+    "Having sex with the principal.",
+    "Highly racist Asian music.",
+    "In bed, pajama clad, non-sexual intimate touching.",
+    "Islamic goat porn.",
+    "Life-changing wisdom from Jade Smith's twitter account.",
+    "Off-duty Nazis just looking for a good time.",
+    "One Night in Paris.",
+    "Santa Claus teabagging a sleeping child, taking a picture and leaving it in the child's stocking.",
+    "Telling 9/11 jokes to the families of 9/11 victims.",
+    "The Satanic Verses.",
+    "Throwing your hands in the air and shouting Wheeee!",
+    "Two Floridians, $10,000 in cash, five crack pipes, and a baby fucking alligator.",
+    "When your dog's balls are bigger than yours."
+  ],
+  "quantity": {
+    "black": 15,
+    "white": 20,
+    "total": 35
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "pack": {
+    "name": "Crabs Adjust Humidity: Volume 3",
+    "id": "crabs_adjust_humidity_vol_3"
+  },
+  "black": [
+    {
+      "content": "______, just for a second.  Just to see how it feels.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______: Ain't nobody got time for that!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______: I volunteer as tribute!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______: Provided by the management for your protection.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______: Your ideas are intriguing to me and I wish to subscribe to your newsletter.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Before I got laid off, I never pictured a career in ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Good news, everyone! I'm giving a TED Talk on the subject of how ______ will transform ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "How did I get through college?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "How did I spend my inheritance?",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I do declare, in times of distress I have always relied on ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I do wish the newspapers hadn't mentioned ______ in grandpa's obituary.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I have this recurring dream where I'm ______, and I'm giving ______ to ______.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "I've designed a spaceship powered by the energy released when you combine ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "In Valhalla, it is said that all brave warriors are given ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Old Willy used to be just like you or me, before ______ got ahold of him.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Rumor is, Kim Jong-un is executing prisoners with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The night before a blizzard, always stock up on ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "This bottle of 1961 Château Cheval Blanc has notes of ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "This film has been rated \"NC-17\" for graphic depictions of ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Topping this week's non-fiction best-sellers: \"______ : the art of living with ______.\"",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Utah is considering the legalization of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What do I have rotting away in a storage unit?",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "What do I have rotting away in a storage unit?",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "What made me this way?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What really gave Superman his powers?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What should I be for Halloween?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What will they carve on my tombstone?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's this town's best-kept secret?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "While officially still frowned on, ______ is now permitted in the U.S. armed forces.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "While officially still frowned on, ______ is now permitted in the US armed forces.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Who will be first against the wall when the revolution comes?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Who's got ______, ______, and two thumbs?  This guy!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Who's really to blame?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Yes, it is I, the world's most dangerous supervillain: Baron Von ______!",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A ball pit filled with testicles.",
+    "A banana.  You know, for scale.",
+    "A Benedict Cumberbatch RealDoll™.",
+    "A black fly in your chardonnay.",
+    "A braille vajazzling.",
+    "A bunch of snot-nosed, know-it-all twentysomethings.",
+    "A butt-plug in the shape of a rolled-up copy of the U.S. Constitution.",
+    "A cage fight with Nicolas Cage.",
+    "A combination bounce house and fumigation tent.",
+    "A donkey show.",
+    "A Fleshlight®.",
+    "A fluffy little butt.",
+    "A literal shaved beaver.",
+    "A meat popsicle.",
+    "A silly old sea captain who's just full of stories.",
+    "A song about how great Nebraska is.",
+    "A stripper named \"Anchovy.\"",
+    "A tongue punch in the ol' fart box.",
+    "A whole lot of donuts.",
+    "An emergency root canal.",
+    "An emperor penguin with no sense of shame.",
+    "An erotic novel about the Loch Ness Monster.",
+    "An unexpected finger in the anus.",
+    "Baby carrots.",
+    "Being heteroflexible.",
+    "Being so far in the closet, you can see Narnia.",
+    "Being waterboarded with Wild Turkey® 101.",
+    "Charles Darwin.",
+    "Chasing waterfalls.",
+    "Chemtrails.",
+    "Chloroform.",
+    "Combing out the dingleberries.",
+    "Crabs Adjust Humidity.",
+    "Dennis Rodman, professional diplomat.",
+    "Double vaginal, double anal.",
+    "Erotic Star Trek fan fiction where all the characters are furries, like Kirk is an ocelot or something.",
+    "Gettin' down there and bein' all like \"this shit is nasty, yo.  Fuck this, yo.\"",
+    "Getting ganked.",
+    "Hookers and blow.",
+    "Jennifer Lawrence.",
+    "Juggalos.",
+    "Korean Jesus.",
+    "LeBron James' vast, enveloping hands.",
+    "Living among us... Learning our ways.  Watching.  Waiting.",
+    "Low-hanging fruit.",
+    "Lt. Worf's naturally-ribbed Klingon schlong.",
+    "Lucky Pierre.",
+    "Making airplane noises.",
+    "Mr. Right Now.",
+    "My apparent inability to read a few simple words out loud.",
+    "Nazi unicorns.",
+    "Neil deGrasse Tyson.",
+    "Obamacare.",
+    "Peanut Butter Jelly Time.",
+    "Primo shlick material.",
+    "Rainbow cumdrops.",
+    "Realistic expectations.",
+    "Robin Thicke.",
+    "Scissoring.",
+    "September 11th.",
+    "Six pounds of raw, peeled garlic.",
+    "Some punk-ass little bitch.",
+    "Sriracha.",
+    "Susan, that bitch.",
+    "The (technically) Virgin Mary.",
+    "The crotches of strangers.",
+    "The express written consent of Major League Baseball.",
+    "The few shreds of tinsel still clinging to my asshole.",
+    "The Irish.",
+    "The ol' reach-around.",
+    "The sound of one hand fapping.",
+    "The sticky icky.",
+    "The sweet release of death.",
+    "The taste of human flesh.",
+    "Turning it all into a sexy dance.",
+    "TWENTY MILLION U.S. DOLLARS.",
+    "Using a live squid as a condom.",
+    "Wanghis Kahn, cocklord of the Mongols.",
+    "What Jesus would do.",
+    "Wiggling.",
+    "Wuv.",
+    "Yiffing.",
+    "You know, one of them sorts of things."
+  ],
+  "quantity": {
+    "black": 34,
+    "white": 83,
+    "total": 117
+  }
+}

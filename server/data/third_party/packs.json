@@ -1,0 +1,715 @@
+{
+  "packs": [
+    {
+      "name": "Talking Out Uranus: Star Wars Parody Pack",
+      "id": "tou_starwarsparody",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 1 - The Nutsack Pack",
+      "id": "tou_v1_nutsack",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 2 - The Gerbil Pack",
+      "id": "tou_v2_gerbil",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 3 -The Pack of Shame",
+      "id": "tou_v3_shame",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "alking Out Uranus: Vol 4 -The Foreplay Pack",
+      "id": "tou_v4_foreplay",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "TTalking Out Uranus: Vol 5 -The Bite Me Pack",
+      "id": "tou_v5_biteme",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 6 - My Ass Pack",
+      "id": "tou_v6_myass",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 7 - The Double Dare You Pack",
+      "id": "tou_v7_doubledare",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Talking Out Uranus: Vol 8 - The Bearded Clam Pack",
+      "id": "tou_v8_clam",
+      "quantity": {
+        "black": 30,
+        "white": 70,
+        "total": 100
+      }
+    },
+    {
+      "name": "Bad Hombres Against Fake News 1",
+      "id": "bad_hombres_against_fake_news_pack_1",
+      "quantity": {
+        "black": 30,
+        "white": 90,
+        "total": 120
+      }
+    },
+    {
+      "name": "Blurbs Against Buffalo",
+      "id": "blurbs_against_buffalo",
+      "quantity": {
+        "black": 18,
+        "white": 54,
+        "total": 72
+      }
+    },
+    {
+      "name": "Cakes Athirst Hilarity Volume 1",
+      "id": "cakes_athirst_hilarity_vol_1",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Cakes Athirst Hilarity Volume 2",
+      "id": "cakes_athirst_hilarity_vol_2",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Cakes Athirst Hilarity Volume 3",
+      "id": "cakes_athirst_hilarity_vol_3",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Cakes Athirst Hilarity Volume 4",
+      "id": "cakes_athirst_hilarity_vol_4",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Carbs of the Huge Manatee: Dance Expansion 1",
+      "id": "carbs_huge_manatee_dance_expansion_1",
+      "quantity": {
+        "black": 18,
+        "white": 90,
+        "total": 108
+      }
+    },
+    {
+      "name": "Carbs of the Huge Manatee: General Expansion 1",
+      "id": "carbs_huge_manatee_general_expansion_1",
+      "quantity": {
+        "black": 22,
+        "white": 92,
+        "total": 114
+      }
+    },
+    {
+      "name": "Carbs of the Huge Manatee: General Expansion 2",
+      "id": "carbs_huge_manatee_general_expansion_2",
+      "quantity": {
+        "black": 18,
+        "white": 90,
+        "total": 108
+      }
+    },
+    {
+      "name": "Carbs of the Huge Manatee: General Expansion 3",
+      "id": "carbs_huge_manatee_general_expansion_3",
+      "quantity": {
+        "black": 18,
+        "white": 90,
+        "total": 108
+      }
+    },
+    {
+      "name": "Carbs of the Huge Manatee - Kink Expansion 1",
+      "id": "carbs_huge_manatee_kink_expansion_1",
+      "quantity": {
+        "black": 22,
+        "white": 92,
+        "total": 114
+      }
+    },
+    {
+      "name": "Carbs of the Huge Manatee - Online Dating Expansion 1",
+      "id": "carbs_huge_manatee_online_dating_expansion_1",
+      "quantity": {
+        "black": 22,
+        "white": 93,
+        "total": 115
+      }
+    },
+    {
+      "name": "Cards About Toronto",
+      "id": "cards_about_toronto",
+      "quantity": {
+        "black": 40,
+        "white": 198,
+        "total": 238
+      }
+    },
+    {
+      "name": "Cards and Punishment Vol. One",
+      "id": "cards_and_punishment_vol_1",
+      "quantity": {
+        "black": 39,
+        "white": 94,
+        "total": 133
+      }
+    },
+    {
+      "name": "Cards and Punishment Vol. Two",
+      "id": "cards_and_punishment_vol_2",
+      "quantity": {
+        "black": 33,
+        "white": 77,
+        "total": 110
+      }
+    },
+    {
+      "name": "Cards With No Sexuality",
+      "id": "cards_with_no_sexuality",
+      "quantity": {
+        "black": 25,
+        "white": 75,
+        "total": 100
+      }
+    },
+    {
+      "name": "Carps & Angsty Manatee - Texas Edition",
+      "id": "carps_angsty_manatee_texas_ed",
+      "quantity": {
+        "black": 25,
+        "white": 124,
+        "total": 149
+      }
+    },
+    {
+      "name": "Carps & Angsty Manatee - Volume 1",
+      "id": "carps_angsty_manatee_vol_1",
+      "quantity": {
+        "black": 20,
+        "white": 130,
+        "total": 150
+      }
+    },
+    {
+      "name": "Carps & Angsty Manatee - Volume 2",
+      "id": "carps_angsty_manatee_vol_2",
+      "quantity": {
+        "black": 22,
+        "white": 126,
+        "total": 148
+      }
+    },
+    {
+      "name": "Cats Abiding Horribly Bonus Cards",
+      "id": "cats_abiding_horribly_bonus",
+      "quantity": {
+        "black": 5,
+        "white": 5,
+        "total": 10
+      }
+    },
+    {
+      "name": "Cats Abiding Horribly Bonus Cards 2",
+      "id": "cats_abiding_horribly_bonus2",
+      "quantity": {
+        "black": 5,
+        "white": 5,
+        "total": 10
+      }
+    },
+    {
+      "name": "Cats Abiding Horribly: Episode I - The Dirty Goblin",
+      "id": "cats_abiding_horribly_ep1",
+      "quantity": {
+        "black": 65,
+        "white": 140,
+        "total": 205
+      }
+    },
+    {
+      "name": "Cats Abiding Horribly: Episode II - A New Low",
+      "id": "cats_abiding_horribly_ep2",
+      "quantity": {
+        "black": 40,
+        "white": 110,
+        "total": 150
+      }
+    },
+    {
+      "name": "Cats Abiding Horribly: Episode III - The SJWs Strike Back",
+      "id": "cats_abiding_horribly_ep3",
+      "quantity": {
+        "black": 40,
+        "white": 110,
+        "total": 150
+      }
+    },
+    {
+      "name": "Charlie Foxtrot",
+      "id": "charlie_foxtrot",
+      "quantity": {
+        "black": 65,
+        "white": 205,
+        "total": 270
+      }
+    },
+    {
+      "name": "Clones Attack Hilarity #1",
+      "id": "clones_attack_hilarity_1",
+      "quantity": {
+        "black": 38,
+        "white": 112,
+        "total": 150
+      }
+    },
+    {
+      "name": "Clones Attack Hilarity #2",
+      "id": "clones_attack_hilarity_2",
+      "quantity": {
+        "black": 40,
+        "white": 110,
+        "total": 150
+      }
+    },
+    {
+      "name": "Cocks Abreast Hostility: Cock Pack One: Just The Tip",
+      "id": "cocks_abreast_hostility_cock_pack_one",
+      "quantity": {
+        "black": 25,
+        "white": 100,
+        "total": 125
+      }
+    },
+    {
+      "name": "Cocks Abreast Hostility: Cock Pack Two: Fowls Deep",
+      "id": "cocks_abreast_hostility_cock_pack_two",
+      "quantity": {
+        "black": 25,
+        "white": 100,
+        "total": 125
+      }
+    },
+    {
+      "name": "Cols Despite Kentucky",
+      "id": "cols_despite_kentucky",
+      "quantity": {
+        "black": 0,
+        "white": 18,
+        "total": 18
+      }
+    },
+    {
+      "name": "Cols Despite Kentucky 2",
+      "id": "cols_despite_kentucky_2",
+      "quantity": {
+        "black": 9,
+        "white": 27,
+        "total": 36
+      }
+    },
+    {
+      "name": "Cows Against Hamburgers - Patty Pack #1",
+      "id": "cows_against_hamburgers_patty_pack_1",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Cows Grilling Hamburgers - Patty Pack #1",
+      "id": "cows_grilling_hamburgers_patty_pack_1",
+      "quantity": {
+        "black": 42,
+        "white": 125,
+        "total": 167
+      }
+    },
+    {
+      "name": "Crabs Adjust Humidity: Volume 1",
+      "id": "crabs_adjust_humidity_vol_1",
+      "quantity": {
+        "black": 33,
+        "white": 87,
+        "total": 120
+      }
+    },
+    {
+      "name": "Crabs Adjust Humidity: Volume 2",
+      "id": "crabs_adjust_humidity_vol_2",
+      "quantity": {
+        "black": 33,
+        "white": 93,
+        "total": 126
+      }
+    },
+    {
+      "name": "Crabs Adjust Humidity: Volume 3",
+      "id": "crabs_adjust_humidity_vol_3",
+      "quantity": {
+        "black": 34,
+        "white": 83,
+        "total": 117
+      }
+    },
+    {
+      "name": "Crabs Adjust Humidity: Volume 4",
+      "id": "crabs_adjust_humidity_vol_4",
+      "quantity": {
+        "black": 32,
+        "white": 80,
+        "total": 112
+      }
+    },
+    {
+      "name": "Crabs Adjust Humidity: Volume 5",
+      "id": "crabs_adjust_humidity_vol_5",
+      "quantity": {
+        "black": 32,
+        "white": 80,
+        "total": 112
+      }
+    },
+    {
+      "name": "Crabs Adjust Humidity: Volume 6",
+      "id": "crabs_adjust_humidity_vol_6",
+      "quantity": {
+        "black": 32,
+        "white": 80,
+        "total": 112
+      }
+    },
+    {
+      "name": "Crabs Adjust Humidity: Volume 7",
+      "id": "crabs_adjust_humidity_vol_7",
+      "quantity": {
+        "black": 32,
+        "white": 80,
+        "total": 112
+      }
+    },
+    {
+      "name": "Crazy & Horrible Rabbit - Vol. 1",
+      "id": "crazy_horrible_rabbit_vol_1",
+      "quantity": {
+        "black": 32,
+        "white": 80,
+        "total": 112
+      }
+    },
+    {
+      "name": "Crows Adopt Vulgarity, Vol. 1",
+      "id": "crows_adopt_vulgarity_vol_1",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Crows Adopt Vulgarity, Vol. 2",
+      "id": "crows_adopt_vulgarity_vol_2",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Crows Adopt Vulgarity, Vol. 3",
+      "id": "crows_adopt_vulgarity_vol_3",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Crows Adopt Vulgarity, Vol. 4",
+      "id": "crows_adopt_vulgarity_vol_4",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Guards Against Insanity, Edition 1",
+      "id": "guards_against_insanity_ed_1",
+      "quantity": {
+        "black": 32,
+        "white": 80,
+        "total": 112
+      }
+    },
+    {
+      "name": "Guards Against Insanity, Edition 2",
+      "id": "guards_against_insanity_ed_2",
+      "quantity": {
+        "black": 22,
+        "white": 90,
+        "total": 112
+      }
+    },
+    {
+      "name": "Guards Against Insanity, Edition 3",
+      "id": "guards_against_insanity_ed_3",
+      "quantity": {
+        "black": 22,
+        "white": 90,
+        "total": 112
+      }
+    },
+    {
+      "name": "Guards Against Insanity, Edition 4",
+      "id": "guards_against_insanity_ed_4",
+      "quantity": {
+        "black": 22,
+        "white": 90,
+        "total": 112
+      }
+    },
+    {
+      "name": "Guards Against Insanity, Edition 5",
+      "id": "guards_against_insanity_ed_5",
+      "quantity": {
+        "black": 22,
+        "white": 90,
+        "total": 112
+      }
+    },
+    {
+      "name": "JadedAid: A Card Game to Save Humanitarians",
+      "id": "jadedaid_card_game_save_humanitarians",
+      "quantity": {
+        "black": 35,
+        "white": 159,
+        "total": 194
+      }
+    },
+    {
+      "name": "JadedAid: Peace Corps Expansion Pack",
+      "id": "jadedaid_peace_corps_expansion_pack",
+      "quantity": {
+        "black": 10,
+        "white": 46,
+        "total": 56
+      }
+    },
+    {
+      "name": "KinderPerfect (Commercial Set)",
+      "id": "kinderperfect_commercial_set",
+      "quantity": {
+        "black": 70,
+        "white": 324,
+        "total": 394
+      }
+    },
+    {
+      "name": "KinderPerfect: More Expansion Pack",
+      "id": "kinderperfect_more_expansion_pack",
+      "quantity": {
+        "black": 25,
+        "white": 75,
+        "total": 100
+      }
+    },
+    {
+      "name": "KinderPerfect: Naughty Expansion Pack",
+      "id": "kinderperfect_naughty_expansions_pack",
+      "quantity": {
+        "black": 25,
+        "white": 75,
+        "total": 100
+      }
+    },
+    {
+      "name": "KinderPerfect: A Timeout For Parents (Kickstarter Set)",
+      "id": "kinderperfect_timeout_for_parents",
+      "quantity": {
+        "black": 22,
+        "white": 172,
+        "total": 194
+      }
+    },
+    {
+      "name": "KinderPerfect: Tween Expansion Pack",
+      "id": "kinderperfect_tween_expansion_pack",
+      "quantity": {
+        "black": 24,
+        "white": 75,
+        "total": 99
+      }
+    },
+    {
+      "name": "Knitters Against Swatches First Edition",
+      "id": "knitters_against_swatches_first_ed",
+      "quantity": {
+        "black": 6,
+        "white": 30,
+        "total": 36
+      }
+    },
+    {
+      "name": "Knitters Against Swatches Second Edition",
+      "id": "knitters_against_swatches_second_ed",
+      "quantity": {
+        "black": 8,
+        "white": 28,
+        "total": 36
+      }
+    },
+    {
+      "name": "Pigs Against Profanity",
+      "id": "pigs_against_profanity",
+      "quantity": {
+        "black": 31,
+        "white": 80,
+        "total": 111
+      }
+    },
+    {
+      "name": "Voter's Choice: The First Expansion",
+      "id": "voters_choice_first_expansion",
+      "quantity": {
+        "black": 8,
+        "white": 20,
+        "total": 28
+      }
+    },
+    {
+      "name": "Voter's Choice: The Fourth Expansion",
+      "id": "voters_choice_fourth_expansion",
+      "quantity": {
+        "black": 12,
+        "white": 22,
+        "total": 34
+      }
+    },
+    {
+      "name": "Voter's Choice: The Second Expansion",
+      "id": "voters_choice_second_expansion",
+      "quantity": {
+        "black": 15,
+        "white": 20,
+        "total": 35
+      }
+    },
+    {
+      "name": "Voter's Choice: The Third Expansion",
+      "id": "voters_choice_third_expansion",
+      "quantity": {
+        "black": 11,
+        "white": 22,
+        "total": 33
+      }
+    },
+    {
+      "name": "Words Against Morality: Volume 1",
+      "id": "words_against_morality_vol_1",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Words Against Morality: Volume 2",
+      "id": "words_against_morality_vol_2",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Words Against Morality: Volume 3",
+      "id": "words_against_morality_vol_3",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "Words Against Morality: Volume 4",
+      "id": "words_against_morality_vol_4",
+      "quantity": {
+        "black": 30,
+        "white": 80,
+        "total": 110
+      }
+    },
+    {
+      "name": "The Worst Card Game: 2016 National Edition",
+      "id": "worst_card_game_2016_national_ed",
+      "quantity": {
+        "black": 18,
+        "white": 89,
+        "total": 107
+      }
+    },
+    {
+      "name": "The Worst Card Game: Colorado Edition",
+      "id": "worst_card_game_colorado_ed",
+      "quantity": {
+        "black": 36,
+        "white": 72,
+        "total": 108
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "pack": {
+    "name": "PAX 2012 \"Oops\" Kit",
+    "id": "pax2012_oops_kit"
+  },
+  "black": [
+    {
+      "content": "______: good to the last drop.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Daddy, why is Mommy crying?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Dear Abby, I'm having some trouble with ______ and would like your advice.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I drink to forget ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "White people like ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A Bitch Slap.",
+    "Chunks of dead prostitute.",
+    "Extremely tight pants.",
+    "One trillion dollars.",
+    "Stormtroopers.",
+    "The Boy Scouts of America.",
+    "The entire Mormon Tabernacle Choir.",
+    "The female orgasm.",
+    "Throwing a virgin into a volcano."
+  ],
+  "quantity": {
+    "black": 5,
+    "white": 9,
+    "total": 14
+  }
+}

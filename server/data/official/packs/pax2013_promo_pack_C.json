@@ -1,0 +1,33 @@
+{
+  "pack": {
+    "name": "PAX East 2013 Promo Pack C",
+    "id": "pax2013_promo_pack_C"
+  },
+  "black": [
+    {
+      "content": "I don't know exactly how I got the PAX plague, but I suspect it had something to do with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Press ↓ ↓ ← → B to unleash ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "Achieving 500 actions per minute.",
+    "Charging up all the way.",
+    "Forgetting to eat, and consequently dying.",
+    "Judging elves by the color of their skin and not by the content of their character.",
+    "Smashing all the pottery in a Pottery Barn in search of rupees.",
+    "The Klobb.",
+    "Vespene gas.",
+    "Wil Wheaton crashing an actual spaceship."
+  ],
+  "quantity": {
+    "black": 2,
+    "white": 8,
+    "total": 10
+  }
+}

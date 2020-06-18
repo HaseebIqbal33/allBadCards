@@ -1,0 +1,544 @@
+{
+  "pack": {
+    "name": "Charlie Foxtrot",
+    "id": "charlie_foxtrot"
+  },
+  "black": [
+    {
+      "content": "_________ hit me right in the feels.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "_________ is the reason for my pass request.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "_________ is the reason we constantly have safety briefs.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "_________ is what Basic Training is all about.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "_________ led me to receive an Article 15.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "_________ this weekend is going to really piss off Sarge.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "_________ was the strangest thing I've seen in the US military.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "_________: The truth about Benghazi.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "_________. It's finger lickin' good!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Based on my experience, this could easily be fixed by _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Cluster bombing from B-52s is very, very accurate. The bombs always hit _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Coming this holiday season, Metal Gear Solid: _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Dear Congress, before cutting the military budget, you might want to think about ________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "First there was a war on drugs, then a war on terrorism, what we really need is a war on _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "How do commissioned officers view NCOs?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I came here to fuck or fight, and I don't see _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I enjoy _________ in the barrack's restrooms.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I love _________ the most at Fort Bragg.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I spent my day off in Iraq _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'll trade you the Skittles in my MRE in exchange for _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In the gas chamber, it feels like _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "It's hard to stand at parade rest when you're _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "It's simple: we kill: _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Mr. President the situation is worse than we thought. We're going to DEFCON _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Nobody puts _________ in the corner.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Please forgive me, Lord, but when I get home from deployment, I'm _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Staff Sergeant, this weekend I really fucked up by _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Thank God for alcohol and _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "That's the most fun I've ever had without _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The Army says _________ is not allowed but there's no rule against how fast you can wash your penis.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The best definition of the USAF is _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The best recruitment method to date is _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The best thing about being a female soldier is _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The biggest lie my recruiter told me was __________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The few, the proud, _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The ones who hate war the most are the ones who _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The Sergeant Major of the Marine Corps caught me _________ in my barracks room.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The worst thing about the US military is __________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "This one time in Basic, I was caught _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "USAF has changed their motto to read: _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Waterboarding is _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "We were losing the battle, until our reinforcements brought _________ to the battlefield.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What best describes the feeling of getting your DD214?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What did I try to sneak into Fort Leavenworth?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What do warrant officers actually do?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What does it mean to be an NCO?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What funny lies did you tell Afghans when you were deployed?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What is the greatest thing you have heard a drill instructor say?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What was found in Iraq after the latest UN visit?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What was the best advice you got in basic training?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What was the dumbest thing you bought with your signing bonus?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What would our forefathers think of today's military?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's going on with your female servicemembers?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "While standing in battalion formation, I often think about _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Whoever said \"time cures all wounds\" has clearly never experienced _________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why did my spouse divorce me?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why did the Military Police pull me over?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why is my sex life non-existent.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why is the CO's wife such a cunt?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why was a SHARP complaint filed on me?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why was your commander court-martialed?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why would I want _________ stuffed down my throat?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "WWCND: What would Chuck Norris do?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You can have _________ when you pry it from my cold, dead hands!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You might be a veteran if you consider _________ a good time.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "$2 beer pitcher night at the base bowling alley.",
+    "16 years of service and my pay still sucks.",
+    "A barracks bunny.",
+    "A bitchy, stuck-up officer's wife.",
+    "A bunker fart that is way louder than expected.",
+    "A dangerous mistake to make.",
+    "A Dependapotamus.",
+    "A dirty fucking Jody.",
+    "A dishonorably discharged Army Reservists.",
+    "A Drill Sergeant without a combat patch.",
+    "A fart so rancid it could clear a mess hall.",
+    "A fat chick in the infantry barracks.",
+    "A flock of aggressive, horny bald eagles.",
+    "A freedom boner.",
+    "A gang of E4s.",
+    "A hefty spoonful of man the fuck up!",
+    "A massive muffin top.",
+    "A needy girlfriend who always asks if there is a military discount.",
+    "A night of beer, blonde jokes, and genital mutilation.",
+    "A Platoon Sergeant claiming 38 soldiers on his tax return.",
+    "A private showing up to drill with two left boots, in different colors.",
+    "A PVT tangled in C-Wire.",
+    "A return without honor.",
+    "A shit-ton of booze from the Class VI store.",
+    "A squad of Marines breaking down the front door.",
+    "A VA hospital.",
+    "A vengeful but loving God.",
+    "A verbally abusive Platoon Sergeant.",
+    "A whole, hearty cup of shut the fuck up!",
+    "Abortions for some, miniature American flags for others.",
+    "Abusing your rank privileges.",
+    "Accidentally punching yourself in the nuts.",
+    "Accidentally sending a dick pic to your SGT.",
+    "Accidentally taking a Valium before heading into combat.",
+    "Amputee porn.",
+    "An arms dealer with no arms.",
+    "An E4 using a hoverboard while on cleaning detail.",
+    "An erection lasting longer than 12 hours.",
+    "An iPod filled with porn.",
+    "Army wives.",
+    "Barracks fist fights.",
+    "Battle-hardened grannies.",
+    "Be all you can be, unless you're gay.",
+    "Beating the living shit out of protesting flag burners.",
+    "Being an E4 for 8 years.",
+    "Being back-to-back World War Champions!",
+    "Being better than every other nation in the fucking world.",
+    "Being deployed for so long the sheep start looking attractive.",
+    "Being on hold with the VA office for 3 hours.",
+    "Being operator as fuck!",
+    "Blacking out and causing some serious fucking damage.",
+    "Blowing shit up for the laugh.",
+    "Blowing your entire paycheck on electronics from the PX.",
+    "Brexit.",
+    "Brian Williams enlisting in the service.",
+    "Bringing a penis to a sword fight.",
+    "Calling a Senior NCO \"Sir.\"",
+    "Camel spiders.",
+    "Carl of Duty.",
+    "Changing your beneficiary so your spouse won't get shit.",
+    "Chemical castration.",
+    "Civilians dead set on bringing down ISIS.",
+    "Cleaning the latrine with your toothbrush.",
+    "Cleaning your kitchen with a gun.",
+    "Collecting exhaust samples.",
+    "Communist bastards.",
+    "Conduct unbecoming of an officer.",
+    "Cranking it in the portashitter.",
+    "Cruising in your Black Cadillacs.",
+    "Daisy-pulling hippies.",
+    "Dancing in the middle of a circle of Marines.",
+    "Dating someone within 30 miles of the base.",
+    "Deploying to Bum Fuck Egypt.",
+    "Driving a tank through a busy playground.",
+    "Every inch of my love, supplied by my M9 pistol.",
+    "Everyone having the same shitty haircut.",
+    "Exercising the \"don't ask, don't tell\" policy.",
+    "Faking an injury to get out of PT.",
+    "Farting non-stop.",
+    "Fat shaming obese soldiers.",
+    "Five barrels of frothy, thick crude oil.",
+    "Flying on the wing of the plane, old school style.",
+    "Fobbits.",
+    "Foreign civilians who don't speak English.",
+    "Forever regretting the day you told your Platoon Sergeant you didn't have anything to do.",
+    "Forgetting to rig the parachute on a M1151 and watching it crash into flames from the sky.",
+    "Freshly commissioned Butterbars who think they are hot shit.",
+    "Fucking up so bad you had to mop up the rain.",
+    "Getting a really, really shitty tattoo.",
+    "Getting catfished through Tinder.",
+    "Getting divorced, while deployed, via email, on Valentine's Day.",
+    "Getting excited to line up nut to butt.",
+    "Getting off inches above a pile of collective shit from over 100 men.",
+    "Getting really excited for a zombie apocalypse.",
+    "Getting stoned, in the Biblical sense.",
+    "Giving out Trojan Magnums to Afghan locals and telling them they are the smallest size in America.",
+    "Giving war a chance.",
+    "Goat Fuckers.",
+    "God bless America.",
+    "Going \"Full Retard.\"",
+    "Going apeshit waiting to begin your leave block.",
+    "Going into maximum overdrive.",
+    "Growing a mustache to fit in.",
+    "Grunt Life.",
+    "Hand lotion. Lots and lots of hand lotion.",
+    "Hand-to-gland combat.",
+    "Hanging out with Saddam.",
+    "Having an orgy in a Porta-Potty during a very hot summer day on Iraqi soil.",
+    "Hemorrhoids the size of clementines.",
+    "Hiding in a dumpster to get out of morning PT.",
+    "Hitler's lost art school acceptance letter.",
+    "Hot all consuming fire.",
+    "Hours of mindless boredom combined with a room full of testosterone.",
+    "Innocent pure love.",
+    "Insulting morbidly obese people to make them chase you, then laughing when they suddenly pass out.",
+    "JodyMingle.com",
+    "Kilroy. Mother Fucking Kilroy.",
+    "Learning to cope with thoughts of death and uncertainty.",
+    "Liberals.",
+    "Making fun of the Air Force.",
+    "Masturbating while on duty.",
+    "Mexican food so authentic that Trump would build a wall around it.",
+    "Misunderstanding a speech and starting a genocide.",
+    "MRE Date Night.",
+    "MURICA!",
+    "My girlfriend, whose husband is fighting for your freedom.",
+    "My sexual attraction to mashed potatoes.",
+    "Nancies.",
+    "NCO neglect.",
+    "Needing a wheelbarrow to cart around your massive testicles.",
+    "Nobody caring that you are airborne qualified.",
+    "Officers who make the simplest shit hard AF.",
+    "Painting racing stripes on the new tank.",
+    "Passing out at the mere thought of live fire.",
+    "PCSing to an even bigger shithole than the one where you are currently stationed.",
+    "Positive pregnancy tests for sale in Fort Bragg.",
+    "Powerlifting to the Backstreet Boys.",
+    "PowerPoint Rangers.",
+    "Pretending to be a dragon.",
+    "Private Handler.",
+    "Reenacting Civil War battles with \"Black Lives Matter\" activists.",
+    "Referring to the Marine Corps Ball as prom.",
+    "Replacing the soap in the bathroom dispenser with human semen.",
+    "Replacing the term \"Battle Buddy\" with \"Warrior Companion.\"",
+    "Roid Rage.",
+    "Settling disputes over the South China Sea with a heated game of tiddlywinks.",
+    "Settling for Pepsi, when you really wanted cocaine.",
+    "Several Fleshlights.",
+    "Sheep a.k.a ISIS sex slaves.",
+    "Shitting out 3 days of MRES.",
+    "Shut your mouth and get in line!",
+    "Spiking the punch at a company-sponsored picnic.",
+    "Stabbing yourself to hit on the hot nurse at the field hospital.",
+    "Stealing a rival company's guidon.",
+    "Stolen valor around the holiday season.",
+    "Stomping out a crotch fire.",
+    "Strangling a hooker with a PT belt.",
+    "Suicide Awareness Training.",
+    "Taking a date to the PX food court in a sad attempt to get laid.",
+    "Taking a shit while you are being observed during a drug test.",
+    "Taking commands from the Situation Room.",
+    "Tattooing a rank to your body.",
+    "That one friend in your group who isn't quite right in the head.",
+    "The 1st SGT straight lifting you!",
+    "The ability known as \"retardation.\"",
+    "The Battle of the Bulge.",
+    "The face when you make when PTSD is triggering.",
+    "The knife hand.",
+    "The many uses of PT belts.",
+    "The new generation of sissy bitches.",
+    "The notion that greed is good.",
+    "The payday loan shop right outside of base.",
+    "The Sergeant Major's 15-year-old daughter with massive tits.",
+    "The sexual thrill of terrorism.",
+    "The sneaking suspicion you're in the wrong place.",
+    "The sound of motherfucking FREEDOM!",
+    "The Soviet gulag.",
+    "Those pussies that don't eat bacon.",
+    "Threatening to skull fuck a new recruit.",
+    "Three cans of chew and six 24 oz. energy drinks.",
+    "Throwing hundreds of thousands of dollars at simple problems.",
+    "Training soldiers not to marry prostitutes in an attempt to lower divorce rates.",
+    "Two bottles of whiskey and a key to the armory.",
+    "Unraveling 550 reels to look busy for a significant amount of time.",
+    "Unrelenting drone attacks for freedom.",
+    "Using a prosthetic limb as a weapon during the drunken brawl.",
+    "Using a reflective PT belt to tuck in your boner.",
+    "Using an insurgent to fill a pothole.",
+    "Using castration as a form of birth control.",
+    "Using every part of the animal.",
+    "Using the Grindr app as a method to find recruits.",
+    "Using your boner as a compass.",
+    "Using your GI Bill to pay for culinary school.",
+    "Vets who don't give a shit.",
+    "Walking around without a PT belt.",
+    "Way too much hummus.",
+    "Wearing your BDUs in public in order to get things for free.",
+    "Willy Wonka's war crimes against America.",
+    "Wishing the South has won the war.",
+    "Women in the Infantry.",
+    "Woodrow \"Woody\" Wilson, America's Woodiest President.",
+    "Yelling \"CONTACT\" as you empty a full magazine.",
+    "YOU CAN'T HANDLE THE TRUTH!!",
+    "Your brother impregnating your wife while you are deployed."
+  ],
+  "quantity": {
+    "black": 65,
+    "white": 205,
+    "total": 270
+  }
+}

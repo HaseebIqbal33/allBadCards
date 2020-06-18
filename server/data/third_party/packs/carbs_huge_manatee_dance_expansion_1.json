@@ -1,0 +1,195 @@
+{
+  "pack": {
+    "name": "Carbs of the Huge Manatee: Dance Expansion 1",
+    "id": "carbs_huge_manatee_dance_expansion_1"
+  },
+  "black": [
+    {
+      "content": "At the end of the night, the venue smelled like _______________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I knew he/she was creepy when _______________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I really hope the picture of me _______________ doesn't show up in the Facebook photo album.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Mambo is a dance. Salsa is a _______________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My dancing would really improve if I worked on two things: my connection and _______________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Old- and new-school dancers alike were surprised with the success of the _______________ room at our Friday night dance.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Please be warned, altitude sickness will lead to _______________, _______________, and _______________.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "The _______________ Dance Exchange",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The best way to check someone off your dance card is _______________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The last time I _______________, I was _______________ all night long.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "The old argument of “Hollywood” vs. “Savoy” is mirrored in the real world by “_______________” vs. “_______________.”",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "This year at fusion exchange, we are offering _______________ at the low price of a dollar a minute.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Today at fusion exchange, I learned _______________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Wanna dance? I've been taking _______________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When I am too tired to keep dancing, I like to _______________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When I hear someone say they really only dance fusion, I think _______________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When I wake up after dancing till 5AM, I wish _______________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why did the fusion exchanges end?",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "(wub)(wub)(wub)",
+    "“Platonic” cuddle buddies.",
+    "A dance board with “new ideas.”",
+    "A dance so face-meltingly hot, you have to go to the restroom and check your underwear.",
+    "A pretentious DJ who attempts to “challenge” the dancers.",
+    "Acapella Dubstep.",
+    "An elbow to the nose.",
+    "An exploded blister.",
+    "An Indian co-worker who wears so much cologne you can taste it.",
+    "An unexpected massage.",
+    "Argentine Tango.",
+    "Arm-Leading.",
+    "Asking someone to dance who says, “Oh. I’m not very good.”",
+    "Asking the DJ to play “Cold Turkey.”",
+    "Austin Blues Predators.",
+    "Awkward Eye Contact.",
+    "Ballet.",
+    "Ballroom Avenger.",
+    "Bathrooms with danceable music.",
+    "Beaver Clamp.",
+    "Because of you people.",
+    "Blues Dancing.",
+    "Bonerboy.",
+    "Children at exchanges.",
+    "Clear the Floor.",
+    "Completely drunk organizers.",
+    "Condoms in the restrooms at the Exchange.",
+    "Connection.",
+    "Core.",
+    "Dance Evangelist.",
+    "Dancers are like locusts on food, but more destructive.",
+    "Dancers whining to organizers about trivial, stupid shit.",
+    "Dancers who don’t wash their hands after using the restroom.",
+    "Dancesturbation.",
+    "Dancing ballroom before ballroom was cool.",
+    "Dating within the dance scene.",
+    "Dating your dance instructor.",
+    "Denver: The Final Fusion Exchange.",
+    "Dirty Waltz.",
+    "Diva dance instructors.",
+    "Don’t. Fuck. With. Ivy.",
+    "Frankenblues.",
+    "Guys going after new follows like piranha on a cow.",
+    "Hit me like a real Westie.",
+    "I’m not backleading, you’re just doing it wrong.",
+    "Leaving room for Baby Jesus.",
+    "Let Jesus find his own dance partner.",
+    "LindyXtreme!",
+    "Mad Stylin’, yo.",
+    "Nice shoes… Wanna dance?",
+    "No, I don’t watch “Dancing with the Stars.”",
+    "No, sorry, no.",
+    "Organizer murder-suicide pacts.",
+    "Organizers with the patience of saints.",
+    "Package Delivery.",
+    "Please. Dance me nice.",
+    "Polka Kills.",
+    "Post-Exchange Flu.",
+    "Pungent dancer feet.",
+    "Recess dancers fucking in the woods.",
+    "Recess dancers who don’t understand that, if you’re in a hotel, they have these magical things called showers.",
+    "Socially awkward but a good dancer.",
+    "Sorry but we’re not sorry.",
+    "Spaghetti arms.",
+    "Tango shoes.",
+    "That sketchy guy hitting on the inappropriately young girls.",
+    "That special sweaty moldy smell of tee-shirts that were danced-in, washed, not dried soon enough, and then danced in again to release that unique bouquet…",
+    "The ability to get drunk at altitude after one drink but not stopping.",
+    "The clinging stench of that last person you danced with.",
+    "The Hangar Dance.",
+    "The Hokey-Pokey.",
+    "The hunched posture teenage girls get from texting all the time.",
+    "The Lambada: The Forbidden Dance.",
+    "The Life of Robert Johnson: The Illustrated Children’s Book. Note: Robert Johnson was a blues musician who sold his soul to the Devil for guitar-playing skills.",
+    "The most convoluted pricing structure ever.",
+    "The number of fallen angels who can blues dance on the head of a pin.",
+    "The underrepresentation of African-American dancers at Blues events.",
+    "The wearing of lingerie as clothing while sweatily dancing.",
+    "The wrong kind of gluten-free bread.",
+    "Their attractiveness doesn't match their dance ability.",
+    "Three-way dances.",
+    "Trip hop.",
+    "Twerking.",
+    "Two Step.",
+    "Two way objectification.",
+    "Ugly Exchange Tee-shirts.",
+    "Unshaven female armpits.",
+    "Wandering hands.",
+    "Westies.",
+    "Wishing that people would look at you as a piece of meat instead of merely dance candy."
+  ],
+  "quantity": {
+    "black": 18,
+    "white": 90,
+    "total": 108
+  }
+}

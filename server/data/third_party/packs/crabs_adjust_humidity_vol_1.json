@@ -1,0 +1,266 @@
+{
+  "pack": {
+    "name": "Crabs Adjust Humidity: Volume 1",
+    "id": "crabs_adjust_humidity_vol_1"
+  },
+  "black": [
+    {
+      "content": "______: Just sayin'.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______: not even once.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "A wild ______ appears!\n\nYou used ______! It's super effective!",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "According to a new UN treaty, ______ now qualifies as a weapon of mass destruction.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Ever since \"the incident,\" every time I close my eyes, I still see ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Gentleman, I'm sure you're wondering why I asked you here this evening.\n\nIt's a long story, but it all began with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "How did I get this restraining order?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "How did I hurt my back?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "How did my grandparents make it through the Great Depression?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I am become ______, the destroyer of worlds.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I love the smell of ______ in the morning.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I was once sent to the HR department for an incident involving ______, ______, and (allegedly) ______.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "I'm gonna go build my own theme park! With ______! And ______!",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I'm so hungry, I could eat ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "If you want a picture of the future, imagine a boot stamping on ______--forever.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In a move that has Hollywood insiders baffled, the producers of American Idol have decided to replace host Ryan Seacrest with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In my opinion, ______ is grounds for justifiable homicide.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "It took seven years in a remote Tibetan monastery, but I finally learned the art of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Like Midas reborn, everything she touches turns to ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Oh my God!\nThey killed ______!\nYou bastards!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "PornHub.com's single most popular video features ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "So then he says, \"If you want to make this relationship work, you need to give up ______ and ______.\"\n\nAs.  If.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Thanks to ______, I now have a crippling fear of ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "The best part of waking up is ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The last three items on my \"bucket list\":",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "Three bullet points from my OKCupid® profile: ______, ______, and, (most importantly) ______.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "Tonight on \"My Super Sweet 16,\" Stephani's parents give her ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Tonight on \"Supernatural,\" Sam and Dean are forced to confront ______ using only ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "What do we want?  ______!\n\nWhen do we want it?  Now!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What was one of the rejected flavors for Bertie Bott's Every Flavour Beans™?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When I'm dating somebody, I can overlook ______ and ______, but ______ is a deal-breaker.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "Why won't they let me in Chuck E. Cheese's® anymore?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "William Shatner's shocking new autobiography is titled \"______: The Final Frontier.\"",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A $50 cup of coffee literally made from cat shit.",
+    "A beard longer than 12 inches.",
+    "A four-inch clit.",
+    "A hamster with a throbbing erection.",
+    "A mazel tov cocktail.",
+    "A nugget of poo roughly the size and shape of a crouton.",
+    "A prehensile penis.",
+    "A sexually aggressive koala.",
+    "A shockingly flatulent bobcat.",
+    "A strong, independent woman who don't need no man.",
+    "A tossed salad.",
+    "Affirmative action.",
+    "An asexual bonobo.",
+    "An entire bottle of Jägermeister®.",
+    "An extra-large can of Bone Bashful™ brand Chinchilla Pudding Sauce.",
+    "An Oosik, or Inuit war club made from the penis bone of a walrus.",
+    "An overly-enthusiastic prostate exam.",
+    "An unsurprising rash.",
+    "Axl Rose.",
+    "Bacne.",
+    "Bacon that can feel pain.",
+    "Bacon-flavored lube.",
+    "Being born with a tail.",
+    "Being kicked in the ovaries.",
+    "Being punk in drublic.",
+    "Belching out the lyrics to \"Hey Jude.\"",
+    "Bono.\nJust... Bono.",
+    "Bronies.",
+    "Cockasaurus rex: the horniest dinosaur of them all.",
+    "Cocktimus Prime: the laser-guided dildo rocket.",
+    "Costco® food samples.",
+    "Death by snu-snu.",
+    "Droppin' the mic.",
+    "Enrolling in clown school.",
+    "Erotic balloon animals.",
+    "Explaining how I got the nickname \"Nibbleberries.\"",
+    "Ezekiel 23:20\n\"There she lusted after her lovers, whose genitals were like those of donkeys and whose emission was like that of horses.\"",
+    "Flop sweat.",
+    "Gilbert Gottfried's voice.",
+    "Giving Anne Frank a drum kit for her birthday.",
+    "Giving the tumor a cutesy name.",
+    "Googling \"Betty White nude.\"",
+    "Grandma's wet, sloppy kisses.",
+    "Honey Boo Boo shotgunning a 2-litre bottle of \"go-go juice.\"",
+    "Insisting that Jesus is technically a zombie.",
+    "JJ Abrams putting lens flares all over everything.",
+    "Joe Biden getting his freak on.",
+    "Joffrey Baratheon, the loathsome little shit.",
+    "LEGO® recreations of classic pornos.",
+    "Lego® recreations of famous porn scenes.",
+    "Logic.",
+    "Michele Bachmann furiously masturbating with a coathanger.",
+    "Mitt Romney doing a burlesque routine in a giant champagne glass.",
+    "Monkey torture.",
+    "My level 90 night elf, Leafshit Puddingsbane.",
+    "Natalie Portman naked, petrified, and covered in hot grits.",
+    "Officially no longer giving a shit.",
+    "Plato's Allegory of the Cave or some other pretentious bullshit.",
+    "Posting on www.reddit.com/r/gonewild/",
+    "Pretending to be a malfunctioning robot.",
+    "Pretending to have the hiccups.",
+    "Pronouncing \"quinoa\" properly.",
+    "Racist ninjas.",
+    "Raptor Jesus.",
+    "Reluctant anal.",
+    "S'more Schnapps.",
+    "Selling out.",
+    "Sexy witches.",
+    "Slightly more than 3 ounces of cum.",
+    "Steaming hot lemonade.",
+    "Struggle snuggles.",
+    "That \"not-so-fresh\" feeling.",
+    "The combined fat from all of the Kardashian's liposuction procedures.",
+    "The combined fat from all the Kardashian family liposuctions.",
+    "The fabled Mongolian Death Worm.",
+    "The green apple splatters.",
+    "The Slender Man.",
+    "The TARDIS.",
+    "Touching each other's butts.",
+    "Thirty pieces of silver.",
+    "Using teeth.",
+    "Van Gogh's severed ear.",
+    "Weaponized ebola.",
+    "Wielding a toddler as a weapon.",
+    "WINNING!!",
+    "Yoga pants."
+  ],
+  "quantity": {
+    "black": 33,
+    "white": 87,
+    "total": 120
+  }
+}

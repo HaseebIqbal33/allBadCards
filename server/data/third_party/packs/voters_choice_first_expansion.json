@@ -1,0 +1,74 @@
+{
+  "pack": {
+    "name": "Voter's Choice: The First Expansion",
+    "id": "voters_choice_first_expansion"
+  },
+  "black": [
+    {
+      "content": "______. is what I love most about my body.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______. Part of a balanced breakfast.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______. That's a deal breaker.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______. There's a fetish for that.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I love the smell of ______ in the morning.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I was caught naked eating ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Roses are red. Violets are blue. That being said, ______",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What did I smuggle into Mexico?",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A career ending blowjob.",
+    "A low cal progressive communion wafer called, I cant believe its not Jesus.",
+    "A pregnant lady with feet hanging from her vagina.",
+    "A Shirley Temple made from the remains of the actual Shirley Temple.",
+    "Adolf Hitler's gas bill.",
+    "An Asian Invasion.",
+    "Apologizing for having a boner.",
+    "Dating Advice from Taylor Swift",
+    "Disastrously misunderstanding the purpose of a whales blowhole.",
+    "Feigning death to avoid awkward social situations.",
+    "Finally realizing, after so many tries, that Do you suck cock? Is the worst opening line at any church event.",
+    "Harvesting the organs of the homeless",
+    "I have shit cards and am putting this down in hopeless desperation.",
+    "Licking the flavor off of Doritos so you can reuse them as tortilla chips for your salsa.",
+    "Only getting 71 virgins, due to a clerical error.",
+    "Playing Jenga on 9/11",
+    "Reading erotic braille with your penis.",
+    "Slapping the dick right out of someones mouth",
+    "The countless times the Toy Story toys were forced to watch Andy masturbate."
+  ],
+  "quantity": {
+    "black": 8,
+    "white": 20,
+    "total": 28
+  }
+}

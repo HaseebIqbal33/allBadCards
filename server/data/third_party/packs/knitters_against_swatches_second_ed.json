@@ -1,0 +1,83 @@
+{
+  "pack": {
+    "name": "Knitters Against Swatches Second Edition",
+    "id": "knitters_against_swatches_second_ed"
+  },
+  "black": [
+    {
+      "content": "______ + ______ = Hot new knitting trend.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "______ got kicked out of the local Stitch and Bitch group for ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "______, I can yarn bomb that.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______, it's what Elizabeth Zimmerman would do.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I skipped the gauge swatch and now my _____ looks more like ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I started knitting so I would stop ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Indie-dyed yarns can have some crazy color names. Last week I bought a colorway called ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why don't you just buy socks?",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "[Washing instructions graphic]",
+    "A dropped stitch.",
+    "A hand knitted Bernie Sanders doll.",
+    "A knitted condom.",
+    "A missing stitch marker.",
+    "A skein of yarn knitting with a ball of people.",
+    "An alpaca.",
+    "An Ambien-induced online yarn purchase.",
+    "An intense game of yarn chicken.",
+    "Breaking up with someone to get out of holiday knitting.",
+    "Curing cancer with hand knit hats.",
+    "Cutting a steek.",
+    "Explaining virgin wool to a group of 12 year old boys.",
+    "HAND WASH ONLY!!!",
+    "Hiding a yak in your apartment.",
+    "Knitting at stoplights.",
+    "Knitting two left mittens.",
+    "Knots.",
+    "Procraftinating.",
+    "Sharing needles.",
+    "Souvenir yarn.",
+    "The paralyzing fear of a tiny moth.",
+    "Thrift store yarn.",
+    "Well-intentioned crocheters.",
+    "WIPs, HOs,and FOs.",
+    "Yarn diets.",
+    "Yarn that smells like sheep.",
+    "Yarn vomit."
+  ],
+  "quantity": {
+    "black": 8,
+    "white": 28,
+    "total": 36
+  }
+}

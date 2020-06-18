@@ -1,0 +1,239 @@
+{
+  "pack": {
+    "name": "Second Expansion",
+    "id": "second_expansion"
+  },
+  "black": [
+    {
+      "content": "______ would be woefully incomplete without ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "A remarkable new study has shown that chimps have evolved their own primitive version of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "After months of debate, the Occupy Wall Street General Assembly could only agree on \"More ______!\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Before ______, all we had was ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Before I run for president, I must destroy all evidence of my involvement with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Charades was ruined for me forever when my mom had to act out ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "During his midlife crisis, my dad got really into ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Everyone down on the ground! We don't want to hurt anyone. We're just here for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I spent my whole life working toward ______, only to have it ruined by ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I went from ______ to ______, all thanks to ______.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "If God didn't want us to enjoy ______, he wouldn't have given us ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "In his newest and most difficult stunt, David Blaine must escape from ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Little Miss Muffet Sat on a tuffet, Eating her curds and ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Members of New York's social elite are paying thousands of dollars just to experience ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My country, 'tis of thee, sweet land of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My mom freaked out when she looked at my browser history and found ______.com/______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "My new favorite porn star is Joey \"______\" McGee.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Next time on Dr. Phil: How to talk to your child about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Only two things in life are certain: death and ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The Five Stages of Grief: denial, anger, bargaining, ______, acceptance.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The healing process began when I joined a support group for victims of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The votes are in, and the new high school mascot is ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "This is your captain speaking. Fasten your seatbelts and prepare for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "This month's Cosmo: \"Spice up your sex life by bringing ______ into the bedroom.\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Tonight on 20/20: What you don't know about ______ could kill you.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's harshing my mellow, man?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You haven't truly lived until you've experienced ______ and ______ at the same time.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Your persistence is admirable, my dear Prince. But you cannot win my heart with ______ alone.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A 55-gallon drum of lube.",
+    "A bigger, blacker dick.",
+    "A Burmese tiger pit.",
+    "A dollop of sour cream.",
+    "A fortuitous turnip harvest.",
+    "A magic hippie love cloud.",
+    "A man in yoga pants with a ponytail and feather earrings.",
+    "A piñata full of scorpions.",
+    "A sad fat dragon with no friends.",
+    "A slightly shittier parallel universe.",
+    "A sofa that says “I have style, but I like to be comfortable.”",
+    "A soulful rendition of \"Ol' Man River.\"",
+    "A squadron of moles wearing aviator goggles.",
+    "A sweaty, panting leather daddy.",
+    "A sweet spaceship.",
+    "All of this blood.",
+    "An army of skeletons.",
+    "An ether-soaked rag.",
+    "An unhinged ferris wheel rolling toward the sea.",
+    "Another shot of morphine.",
+    "Basic human decency.",
+    "Beefin' over turf.",
+    "Being awesome at sex.",
+    "Boris the Soviet Love Hammer.",
+    "Bullshit.",
+    "Catastrophic urethral trauma.",
+    "Crabapples all over the fucking sidewalk.",
+    "Crushing Mr. Peanut's brittle body.",
+    "Daddy's belt.",
+    "Death by Steven Seagal.",
+    "Dennis the Menace.",
+    "Dining with cardboard cutouts of the cast of \"Friends.\"",
+    "Double penetration.",
+    "Existing.",
+    "Fetal alcohol syndrome.",
+    "Finding Waldo.",
+    "Fuck Mountain.",
+    "Getting hilariously gang-banged by the Blue Man Group.",
+    "Grandpa's ashes.",
+    "Graphic violence, adult language, and some sexual content.",
+    "Hillary Clinton.",
+    "Hillary Clinton's death stare.",
+    "Intimacy problems.",
+    "Jeff Goldblum.",
+    "Living in a trashcan.",
+    "Loki, the trickster god.",
+    "Making a friend.",
+    "Maximal insertion.",
+    "Me.",
+    "Mild autism.",
+    "Mooing.",
+    "My first kill.",
+    "Nunchuck moves.",
+    "Oncoming traffic.",
+    "One Ring to rule them all.",
+    "Power.",
+    "Pretty Pretty Princess Dress-Up Board Game®.",
+    "Pumping out a baby every nine months.",
+    "Rising from the grave.",
+    "Scrotal frostbite.",
+    "Some really fucked-up shit.",
+    "Special musical guest, Cher.",
+    "Spring break!",
+    "Subduing a grizzly bear and making her your wife.",
+    "Survivor's guilt.",
+    "Swiftly achieving orgasm.",
+    "Taking a man's eyes and balls out and putting his eyes where his balls go and then his balls in the eye holes.",
+    "The black Power Ranger.",
+    "The corporations.",
+    "The day the birds attacked.",
+    "The Google.",
+    "The grey nutrient broth that sustains Mitt Romney.",
+    "The hose.",
+    "The human body.",
+    "The mere concept of Applebee's®.",
+    "The mixing of the races.",
+    "The new Radiohead album.",
+    "Tiny nipples.",
+    "Tongue.",
+    "Upgrading homeless people to mobile hotspots.",
+    "Weapons-grade plutonium.",
+    "Wearing an octopus for a hat.",
+    "Whining like a little bitch.",
+    "Whipping a disobedient slave."
+  ],
+  "quantity": {
+    "black": 28,
+    "white": 84,
+    "total": 112
+  }
+}

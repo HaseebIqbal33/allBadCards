@@ -1,0 +1,72 @@
+{
+  "pack": {
+    "name": "Canadian Conversion Kit",
+    "id": "canadian_conversion_kit"
+  },
+  "black": [
+    {
+      "content": "Air Canada guidelines now prohibit ______ on airplanes.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "CTV presents ______, the story of ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Next on TSN: The World Series of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "O Canada, we stand on guard for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The Royal Ontario Museum has just opened an interactive exhibit on ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's the Canadian government using to inspire rural students to succeed?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When I am Prime Minister of Canada, I will create the Department of ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A Molson muscle.",
+    "A Tim Hortons franchise.",
+    "An icy handjob from an Edmonton hooker.",
+    "Being Canadian.",
+    "Burning down the White House.",
+    "Canada: America's hat.",
+    "Don Cherrys wardrobe.",
+    "Heritage minutes.",
+    "Homo milk.",
+    "Mr. Dressup.",
+    "Naked News.",
+    "Newfies.",
+    "Poutine.",
+    "Schmirler the Curler.",
+    "Snotsicles.",
+    "Stephen Harper.",
+    "Syrupy sex with a maple tree.",
+    "Terry Fox's prosthetic leg.",
+    "The Famous Five.",
+    "The FLQ",
+    "The Official Languages Act. La Loi sur les langues officielles.",
+    "The Royal Canadian Mounted Police."
+  ],
+  "quantity": {
+    "black": 7,
+    "white": 22,
+    "total": 29
+  }
+}

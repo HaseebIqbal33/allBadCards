@@ -1,0 +1,72 @@
+{
+  "pack": {
+    "name": "2012 Holiday Pack",
+    "id": "2012_holiday_pack"
+  },
+  "black": [
+    {
+      "content": "After blacking out during New Year's Eve, I was awoken by ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Every Christmas, my uncle gets drunk and tells the story about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Jesus is ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "On the third day of Christmas, my true love gave to me: three French hens, two turtle doves, and ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "This holiday season, Tim Allen must overcome his fear of ______ to save Christmas.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Wake up, America. Christmas is under attack by secular liberals and their ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What keeps me warm during the cold, cold winter?",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A Christmas stocking full of coleslaw.",
+    "A Hungry-Man™ Frozen Christmas Dinner for One.",
+    "A toxic family environment.",
+    "A visually arresting turtleneck.",
+    "Another shitty year.",
+    "Clearing a bloody path through Walmart with a scimitar.",
+    "Eating an entire snowman.",
+    "Elf cum.",
+    "Fucking up \"Silent Night\" in front of 300 parents.",
+    "Gift-wrapping a live hamster.",
+    "Immaculate conception.",
+    "Krampus, the Austrian Christmas monster.",
+    "Mall Santa.",
+    "Pretending to be happy.",
+    "Santa's heavy sack.",
+    "Several intertwining love stories featuring Hugh Grant.",
+    "Socks.",
+    "Space Jam on VHS.",
+    "Taking down Santa with a surface-to-air missile.",
+    "The Star Wars Holiday Special.",
+    "The tiny, calloused hands of the Chinese children that made this card.",
+    "Whatever Kwanzaa is supposed to be about."
+  ],
+  "quantity": {
+    "black": 7,
+    "white": 22,
+    "total": 30
+  }
+}

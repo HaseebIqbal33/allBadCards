@@ -1,0 +1,33 @@
+{
+  "pack": {
+    "name": "PAX Prime 2015 Food Pack C (Cherry)",
+    "id": "pax2015_food_pack_C"
+  },
+  "black": [
+    {
+      "content": "Excuse me, waiter. Could you take this back? This soup tastes like ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Now on Netflix: Jiro Dreams of ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A Mexican child trapped inside of a burrito.",
+    "Clamping down on a gazelle’s jugular and tasting its warm life waters.",
+    "Committing suicide at the Old Country Buffet.",
+    "Father’s forbidden chocolates.",
+    "Jizz Twinkies.",
+    "The Hellman’s Mayonnaise Corporation.",
+    "The hot dog I put in my vagina ten days ago.",
+    "The inaudible screams of carrots."
+  ],
+  "quantity": {
+    "black": 2,
+    "white": 8,
+    "total": 10
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "pack": {
+    "name": "Crabs Adjust Humidity: Volume 2",
+    "id": "crabs_adjust_humidity_vol_2"
+  },
+  "black": [
+    {
+      "content": "______: it's magically delicious.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______?\n\nThat's what she said.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "\"You have my sword.\"\n\n\"And you have my bow.\"\n\n\"And my ______!\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "A new Russian dash-cam video shows ______, right there in the middle of the street!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "An ounce of ______ is worth a pound of ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Apple® has announced a new device that promises to revolutionize the way we think about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Audiences at Sundance were traumatized by Lars von Trier's controversial new film, \"______.\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Bentley's® latest ultra-high-end luxury sedan comes complete with ______, ______ and ______.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "Dear Dan Savage, Please help.  I am unable to achieve orgasm without ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Dear, your father and I found ______ and ______ in your bedroom.\n\nI'm shocked, and frankly just a little disappointed.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Experts say that without careful management and conservation, ______ will disappear within our lifetimes.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "From the people who brought you Sharktopus and Sharknado, Syfy's® next horror film combines sharks with ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Having abandoned his pleas for a return to the gold standard, Ron Paul is now promoting a ______-based economy.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Hey man, you gonna come check out my show tonight?  My new band is called \"______.\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I don't care what people say, ______ is not a crime.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I got some strange looks in the checkout line when the cashier noticed ______, ______ and ______ in my cart.",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "I have to admit... it took me a while to agree to it, but incorporating ______ into our wedding ceremony is a decision I will never regret.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I quit my job as a bartender the night some jackass left me ______ as a tip.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I think I need to take Fluffums to puppy training: he has this terrible habit of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I wish it were something simple--like peanuts or shellfish--but my doctor tells me I'm actually allergic to ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "If people wouldn't be so quick to judge, I would give ______ to the person on my left in a heartbeat.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Michelle Obama outraged conservatives when she implied that ______ maybe wasn't such a bad thing.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My tour of the White House radically escalated when Secret Service caught a glimpse of ______ in my bag.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Netflix's® new original series is a sitcom based around ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Now that he has retired, Pope Benedict can finally devote time to his true passion: ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Oh, so you think you're too good for us now, little \"Miss ______!\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The NSA wants to talk to me about an email I sent containing these key phrases:",
+      "pick": 3,
+      "draw": 2
+    },
+    {
+      "content": "WANTED: a clean, well-lit place for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What I gotta give my Boo to get outta the doghouse?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When I've seriously fucked up and need to make amends, what can I give my significant other to show them I am truly remorseful?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When you play the Game Of ______, you win or you die.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why won't anyone sit with me?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Yea, though I walk through the valley of ______, I will fear no ______.",
+      "pick": 2,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A 5 lb. bag of gummy bears.",
+    "A bachelor's degree in communication.",
+    "A bit o' the ol' slap and tickle.",
+    "A bitchin' Camaro.",
+    "A blanket with a hole in it.",
+    "A breakfast sausage with serious emotional problems.",
+    "A cunning stunt.",
+    "A good schtupping.",
+    "A gratuitous claymation sequence.",
+    "A hairshirt.",
+    "A husband bulge.",
+    "A jury of your peers.",
+    "A sense of resignation.",
+    "A slack-jawed yokel.",
+    "A stinky pinky.",
+    "A tender rodgering.",
+    "A warm, gently fragrant biscuit.",
+    "A were-salmon.",
+    "A younger, vastly more attractive spouse.",
+    "Agent Orange.",
+    "An angry little man.",
+    "An effeminate southern homophobe.",
+    "Applying to a new guild.",
+    "Barfing into a tiny, bejeweled handbag.",
+    "Being able to name all of the different kinds of olives.",
+    "Being able to name all the different kinds of olives.",
+    "Being circumcised with a deli slicer.",
+    "Being small but perfectly well formed.",
+    "Bitch tits.",
+    "Biting my toenails.",
+    "Blistering barnacles!",
+    "Bourbon pong.",
+    "Choking.",
+    "Cockissimo Fantastico, the legendary lover with the wondrous wang.",
+    "Cockulous Maximus, tremendous tallywacker of Tripoli.",
+    "Firm buttocks.",
+    "Gazpacho tactics.",
+    "Giving your pet lamb a Brazilian.",
+    "Hakuna matata, motherfucker.",
+    "Her dry, scaly hands.",
+    "Hiroshima.",
+    "Hooking up at a Tegan & Sarah concert.",
+    "Hooking up at a Tegan and Sara concert.",
+    "Japanese rope technique.",
+    "Kentucky Fried Children.",
+    "Killing hobos.",
+    "Making vigorous love to a Taco Bell® Beefy 5-Layer Burrito™.",
+    "Mesothelioma.",
+    "Minimum wage.",
+    "Mongolian \"beef.\"",
+    "More dots!",
+    "My evil twin.",
+    "Not being too smelly, you know, in the cellar.  Down Below.",
+    "One Direction.",
+    "One whose nether regions are vast and beckoning, like unto a corridor down which a frankfurter might be thrown.",
+    "Opening for Sigur Rós.",
+    "Painal.",
+    "Paula Deen's dietitian.",
+    "Poop soup.",
+    "Pooping in public.",
+    "Reptilians.",
+    "Rich Corinthian leather.",
+    "Rock bottom.",
+    "Running around like a guy with his chicken cut off.",
+    "Self-medicating.",
+    "Self-replicating fudge.",
+    "Slowly waving an oversized Jamaican flag.",
+    "Some minor bruising.",
+    "Something Elon Musk thought up while floating six inches above the floor in a meditative trance.",
+    "Spiking the juice at AA.",
+    "Sploosh!",
+    "Swallowing a cue ball.",
+    "Tacos.",
+    "Ted Nugent's cold, dead hands.",
+    "That thing with the spoon.",
+    "The cliterati.",
+    "The creative use of a pool noodle.",
+    "The French.",
+    "The reek of shame.",
+    "The smooth, unblemished skin of a child.",
+    "The soft love-honks of a lusty goose.",
+    "The whole goddamned thing.",
+    "The WNBA.",
+    "Those creamy atheist thighs.",
+    "Titty sprinkles.",
+    "Treason.",
+    "Tufted ears.",
+    "Uncontrollably retching at the mere mention of mayonnaise.",
+    "Using a zip-tie as an impromptu cock-ring.",
+    "Using tears as lubricant.",
+    "Wearing a blue fox fursuit on Casual Friday.",
+    "Wearing your IUD into an MRI."
+  ],
+  "quantity": {
+    "black": 33,
+    "white": 93,
+    "total": 126
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "pack": {
+    "name": "PAX Prime 2015 Food Pack B (Coconut)",
+    "id": "pax2015_food_pack_B"
+  },
+  "black": [
+    {
+      "content": "Aw babe, your burps smell like ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Don't miss Rachel Ray's hit new show, Cooking with ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A belly full of hard-boiled eggs.",
+    "A joyless vegan patty.",
+    "A table for one at The Cheesecake Factory.",
+    "Being emotionally and physically dominated by Gordon Ramsay.",
+    "Kevin Bacon Bits.",
+    "Not knowing what to believe anymore about butter.",
+    "Soup that's better than pussy.",
+    "Sucking down thousands of pounds of krill every day."
+  ],
+  "quantity": {
+    "black": 2,
+    "white": 8,
+    "total": 10
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "pack": {
+    "name": "UK Conversion Kit",
+    "id": "uk_conversion_kit"
+  },
+  "black": [
+    {
+      "content": "________________? Jim’ll fix it!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______________. That’s why mums go to Iceland.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "_____________. Once you pop, the fun don’t stop!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "And the BAFTA for ___________ goes to __________.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Channel 4 presents “________: the Story of ______.”",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Channel 5’s new reality show features eight washed-up celebrities living with ____________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Coming to the West End this year, _________________: The Musical.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Dear Agony Aunt, I’m having some trouble with ____________ and would like your advice.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In her latest feature-length film, Tracy Beaker struggles with ___________ for the first time.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In Wormwood Scrubs, word is you can trade 200 cigarettes for ___________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Next on Sky Sports: The World Championship of _______________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Nobody expects the Spanish Inquisition! Our chief weapons are fear, surprise, and __________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "TFL apologizes for the delay in train service due to ___________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The Natural History Museum has just opened an interactive exhibit on ____________.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The theme for next year’s Eurovision Song Contest is “We are _____________.”",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Today on The Jeremy Kyle Show: “Help! My son is _________________!”",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What are school administrators using to curb rampant teenage pregnancy?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What did I bring back from Amsterdam?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What kept Margaret Thatcher busy in her waning years?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When I am Prime Minister of the United Kingdom, I will create the Ministry of __________.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "400 years of colonial atrocities.",
+    "A bit of slap and tickle.",
+    "A Chelsea smile.",
+    "A fanny fart.",
+    "A ginger’s freckled ballsack.",
+    "A mad cow.",
+    "A madman who lives in a police box and kidnaps women.",
+    "A nice cup of tea.",
+    "A posh wank.",
+    "A sober Irishman who doesn’t care for potatoes.",
+    "A thousand Scottish warriors lifting their kilts in unison.",
+    "A vindaloo poo.",
+    "A white van man.",
+    "An argument with Richard Dawkins.",
+    "An entrenched class system.",
+    "Anything that comes out of Prince Philip’s mouth.",
+    "Badger culling.",
+    "Being hunted like a fox.",
+    "Blood, toil, tears, and sweat.",
+    "Blowing up Parliament.",
+    "Buckfast Tonic Wine",
+    "Cheeky bum sex.",
+    "Chivalry.",
+    "Cottaging.",
+    "Daddies Brown Sauce.",
+    "David Cameron.",
+    "Dogging",
+    "Doing a shit in Pudsey Bear’s eyehole.",
+    "Druids.",
+    "Ed Balls.",
+    "England.",
+    "Excalibur.",
+    "Faffing about.",
+    "Five litres of Special Brew.",
+    "Gary Glitter.",
+    "Gentleman’s Relish.®",
+    "Germans on holiday.",
+    "Getting naked and watching CBeebies.",
+    "Getting wed, having a few kids, taking some pictures, retiring to the south of France, and dying.",
+    "Haggis.",
+    "Hurling one’s body down a hill in pursuit of a wheel of cheese.",
+    "Jade Goody’s cancerous remains.",
+    "Jedward.",
+    "Jehovah’s Witnesses.",
+    "Jimmy Savile",
+    "Just touching David Beckham’s hair.",
+    "Leaked footage of Kate Middleton’s colonoscopy.",
+    "Madeleine McCann.",
+    "Maureen of Blackpool, Reader’s Wife of the Year 1988.",
+    "Millwall fans.",
+    "Mining accidents.",
+    "One Direction’s supple, hairless bodies.",
+    "Pronouncing the names of northern Welsh towns.",
+    "Queen Elizabeth’s immaculate anus.",
+    "Ripping off the Beatles.",
+    "Rubbing Boris Johnson’s belly until he falls asleep.",
+    "Scalping the Milkybar Kid.",
+    "Scousers.",
+    "Shitting out a perfect Cumberland sausage.",
+    "Slapping a biscuit out of an orphan’s mouth.",
+    "Spaniards.",
+    "The Black Death.",
+    "The bloody Welsh.",
+    "The entire cast of Downtown Abbey.",
+    "The French.",
+    "The Hillsborough Disaster.",
+    "The Honey Monster.",
+    "The North.",
+    "The petty troubles of the landed gentry.",
+    "The Stig.",
+    "The sudden appearance of the Go Compare man.",
+    "The way James Bond treats women.",
+    "Tories.",
+    "Trench foot."
+  ],
+  "quantity": {
+    "black": 20,
+    "white": 74,
+    "total": 94
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pack": {
+    "name": "Seasons Greetings Pack",
+    "id": "seasons_greetings_pack"
+  },
+  "black": [
+    {
+      "content": "Blessed are you, Lord our God, creator of the universe, who has granted us _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Donna, pick up my dry cleaning and get my wife something for Christmas. I think she likes _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Here's what you can expect for the new year.\nOut: __.\nIn: __.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "It's beginning to look a lot like _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Jesus is _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "This holiday season, Tim Allen must overcome his fear of _____ to save Christmas.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's the one thing that makes an elf instantly ejaculate?",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A choir of angels descending from the sky and jizzing all over dad's sweater.",
+    "A frozen homeless man shattering on your doorstep.",
+    "A toxic family environment.",
+    "Another shitty year.",
+    "Elf cum.",
+    "Finding out that Santa isn't real.",
+    "Fucking up Silent Night in front of 300 parents.",
+    "Gift-wrapping a live hamster.",
+    "How cool it is that I love Jesus and he loves me back.",
+    "How great of a blowjob Jesus could give.",
+    "How many drinks Aunt Deborah has had.",
+    "Is snowman that contains the soul of my dead father.",
+    "My hot cousin.",
+    "My uncle who voted for Trump.",
+    "Piece of shit Christmas card with no money in them.",
+    "Pretending to be happy.",
+    "Probably grandma's last Christmas, kids.",
+    "Snow falling gently on the frozen body of an orphan boy.",
+    "Socks.",
+    "Starting to see where ISIS is coming from.",
+    "The 9,000 children who starved to death today.",
+    "The shittier, Jewish version of Christmas.",
+    "These low, low prices!"
+  ],
+  "quantity": {
+    "black": 7,
+    "white": 23,
+    "total": 30
+  }
+}

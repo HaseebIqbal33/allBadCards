@@ -1,0 +1,325 @@
+{
+  "pack": {
+    "name": "Clones Attack Hilarity #2",
+    "id": "clones_attack_hilarity_2"
+  },
+  "black": [
+    {
+      "content": "_____ is the one thing I can't live without.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "_____ is way better in virtual reality.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "_____: the best thing since sliced bread.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "After smoking too much weed, I thought I was being chased by _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "All day I dream about _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "All that and a bag of _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Close only counts with horse shoes and _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Don't hate me because I'm beautiful.  Hate me because I'm _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Due to a clerical error, _____ is still legal in Mississippi.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "ESPN is now broadcasting the new sport: Major League _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Fortune cookie says: Nothing is impossible if you have _____ in bed.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Getting street cred the only way know how; ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I never got a speeding ticket, but I once got _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'm raising money on Kickstarter to fund _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'm selling a kidney to pay for _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "If I could take one thing with me to the afterlife, it would be _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "If you're not supposed to eat _____, why does it taste so good?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In the future, the government will send someone back in time to warn us about _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Kazakhstan is now the world's number one exporter of _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Life isn't about finding yourself.  Life is about _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Mattel's newest toy, _____, is selling like hotcakes.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Next to ISIS, the biggest threat to global security is _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Nothing is certain but death and taxes and _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Smokey the Bear says, \"Only you can prevent _____\".",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The military is stepping up its efforts on operation _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The next summer Olympics will feature the new event: _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The shame that only comes from _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The United Nation's new humanitarian mission will deploy _____ to third world countries.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "There's nothing more mysterious than _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "This season's hottest collectible is _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "To get into an Ivy League School, you need a high GPA and a whole lot of _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Today, more and more relationships end because of _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Two's company, three's a crowd, four is _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Warning: Common side effects include _____ and _____.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "What happens in Vegas, stays in Vegas.  Except for _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What keeps me up at night?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why do I keep having children?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "With friends like these, who needs _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You can't live a truly fulfilling life without _____.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You have to experience _____ before you can really appreciate _____.",
+      "pick": 2,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A 50 Shades of Grey sex party.",
+    "A basket of deplorables.",
+    "A classic murder/suicide.",
+    "A collection of used pregnancy tests.",
+    "A courtesy flush.",
+    "A dad bod.",
+    "A desperate mall Santa with nothing to lose.",
+    "A dump so intense you have to shower afterwards.",
+    "A female erection.",
+    "A fist full of pubes.",
+    "A game of \"find that smell\".",
+    "A Game of Thrones incest scene.",
+    "A giant 300-pound Chinese baby wearing tinted aviator glasses.",
+    "A gynecologist digging deep…for compliments.",
+    "A half assed hand job.",
+    "A Hello Kitty fetish.",
+    "A huge bitch.",
+    "A lifetime of bad decisions.",
+    "A long overdue shower.",
+    "A prostate massage.",
+    "A Shake Weight.",
+    "A toaster that understands love.",
+    "Alternative facts.",
+    "An alien anal probe.",
+    "An old toothless woman sucking the jelly out of a donut.",
+    "Backhanded compliments.",
+    "Baked ass.",
+    "Balls in your mouth.",
+    "Bangkok prostitutes.",
+    "Being gay for pay.",
+    "Bestiality, but with balloon animals.",
+    "Big booty hoes.",
+    "Boats 'N Hoes.",
+    "Bumping uglies.",
+    "Chocolate salty balls.",
+    "Clean urine.",
+    "Clearing out the room with a fart.",
+    "Climaxing when the video starts to buffer.",
+    "College rejection letters.",
+    "College students turning alcohol into regret.",
+    "Competitive spooning.",
+    "Consensual sex with a gorilla.",
+    "Constantly wetting the bed.",
+    "Crime scene sex.",
+    "Crop dusting.",
+    "Doing something stupid like running a full marathon for fun.",
+    "Eating vagina like it's your job.",
+    "Erotic waterboarding.",
+    "Expired stool samples.",
+    "F***ing Millennials.",
+    "Fanny packs.",
+    "Farting on queue.",
+    "Flashing your genitals in public.",
+    "Free blood, no questions asked.",
+    "Free hugs.",
+    "Frenemies.",
+    "Getting handsy in the church confessional.",
+    "Getting hard for literally no reason.",
+    "Giving HIV patients a placebo.",
+    "Guys with calf implants.",
+    "Half a bottle of lube and a used condom.",
+    "Hepatitis A, B & C!",
+    "Hideous man boobs.",
+    "Hitting on women at Planned Parenthood.",
+    "Horny old men on Cialis.",
+    "Hot girl on girl action.",
+    "Humongous areolas.",
+    "Jerking it every chance you get.",
+    "Killing your enemies and eating them to gain their power.",
+    "Live streaming a circumcision.",
+    "Losing your virginity to a warm apple pie.",
+    "Making it rain.",
+    "Male lactation.",
+    "Martha Stewart's gold plated vagina.",
+    "Men getting mani-pedis.",
+    "Mormons who don't live in Utah.",
+    "My dumb friends.",
+    "Nipple clamps.",
+    "No child left behind.",
+    "Not safe for work email forwards.",
+    "Panther urine.",
+    "People who change gender every time they sneeze.",
+    "Pile after pile of expired condoms.",
+    "Poop on a stick.",
+    "Racist undertones.",
+    "Realizing too late that your medication is for rectal use only.",
+    "Refusing to vaccinate your kids.  Not because you're anti-vaccine.  You just hate your kids.",
+    "Reruns of The Golden Girls.",
+    "Sex on her period.",
+    "Shake 'n Bake.",
+    "Size Queens.",
+    "Sluts.",
+    "Straight up kicking a stranger in the face.",
+    "Taking your mother to prom.",
+    "Teaching old people to use computers.",
+    "Terminal diarrhea.",
+    "That awkward moment when you realize, not only is your fly down but, your dick is hanging out.",
+    "That friend who never shut up about Crossfit.",
+    "The Batmobile.",
+    "The buddy system.",
+    "The liberal bubble.",
+    "The morbidly obese using Slip 'n Slides.",
+    "Tinder bathroom hookups.",
+    "Tom Hanks shouting, \"There's no crying in baseball!\"",
+    "Trump's America.",
+    "Trying to pee with a massive boner.",
+    "TSA cavity searches.",
+    "Wetting your pants on purpose.",
+    "Women who pee standing up.",
+    "Zombie porn."
+  ],
+  "quantity": {
+    "black": 40,
+    "white": 110,
+    "total": 150
+  }
+}

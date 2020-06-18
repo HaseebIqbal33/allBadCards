@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "name": "Hawaii 2 Safe Pack",
+    "id": "hawaii_2_safe_pack"
+  },
+  "black": [],
+  "white": [
+    "Being the crazy person who opened the safe.",
+    "Sloth card."
+  ],
+  "quantity": {
+    "black": 0,
+    "white": 2,
+    "total": 2
+  }
+}

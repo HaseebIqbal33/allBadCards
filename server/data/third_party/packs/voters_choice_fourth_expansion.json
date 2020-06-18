@@ -1,0 +1,97 @@
+{
+  "pack": {
+    "name": "Voter's Choice: The Fourth Expansion",
+    "id": "voters_choice_fourth_expansion"
+  },
+  "black": [
+    {
+      "content": "______ stole my bike!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "And what do we say to the God of Death?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Daddy drinks because I'm ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Eventually, every little boy suffers the torment of finding his mother's hidden stash of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In the original Star Trek, Captain Kirk's chair was the perfect level so he could spin around and see Uhura's ______,",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Instead of rings, Sonic now collects ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "It is not widely known that most microbreweries also make ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My pet name for my high school girlfriend was ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Our ancestors must have been really high when they made ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Penguin, Catwoman, and Joker are teaming up with a new supervillain who is unnamed but has the power of ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What is my dog really thinking about?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's that tingling feeling in my anus?",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "12,000 ants.",
+    "A drink called The Bill Cosby; I could tell you what's in it but you won't remember in the morning.",
+    "A gang-bang with angry smurfs.",
+    "A gluten-free pizza that tastes like the cardboard box it came in.",
+    "A puppet show of the holocaust.",
+    "A sexually active Toyota Prius.",
+    "A skankosaurus.",
+    "Being friend zoned by a blow-up sex doll.",
+    "Darth Vader ass fucking Leia while yelling \"Who's Your Daddy\"?",
+    "Finding a socially acceptable outlet for your nymphomania.",
+    "Generic grape soda so awful you swear it's Barney cum.",
+    "Hobbit porn starring Dildo backends.",
+    "Muslim with a backpack.",
+    "Scouting for porn stars at a high school graduation.",
+    "Surprise Funeral.",
+    "The blood crusted slime of a used anal bead.",
+    "The chunky blue water in an airplane toilet.",
+    "The leftover cocaine from the time Charlie Sheen partied with those Asian hookers.",
+    "Weighing yourself, then popping a big butt zit, and then weighing yourself again.",
+    "White supremacists who refuse to eat brown M&Ms.",
+    "Yoda's weird little green penis.",
+    "Your gynecologist, who now performs pap smears with a 24 inch two-headed dildo."
+  ],
+  "quantity": {
+    "black": 12,
+    "white": 22,
+    "total": 34
+  }
+}

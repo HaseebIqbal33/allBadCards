@@ -1,0 +1,215 @@
+{
+  "pack": {
+    "name": "Guards Against Insanity, Edition 4",
+    "id": "guards_against_insanity_ed_4"
+  },
+  "black": [
+    {
+      "content": "It costs how much for an abortion? I'm sorry, but we're going to have to use the ______ method instead.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Trust me, I'm ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I like to look deep into someone's eyes while ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why am I bleeding?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______. This is the one thing we didn't want to happen.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The prostitute lied to me. She said that ______ was legal in Amsterdam.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Nike® has spent millions of dollars on their new tagline: Just ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "If there's one thing life's taught me, it's never stick your dick in ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______. The first time is never the best.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I gave that bitch ______. Bitches love ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I lost a shitload of weight simply by replacing ______ with ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "______. That's an HR incident.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "A visit to the in-laws is never complete without ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______. Is that some kind of euphemism?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I use ______ instead of ______. Money in the bank.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Don't you just hate it when ______ has the consistency of ______?",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "______. Just another reason why you can't trust adults.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'm not proud to admit it, but I once used ______ to break up with an ex.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The two worst things about Down syndrome are ______ and their hair cut.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Never mention on the first date that you're into ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______: Man's final frontier.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Call me a patriot if you will, but I believe in Truth, Justice and ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "70's bush.",
+    "A bulging vein in your asshole.",
+    "A courtesy lick.",
+    "A curry so hot it leaves your ringpiece looking like a halved blood orange.",
+    "A fractured pelvis.",
+    "A girl on the brink of womanhood.",
+    "A hydraulic dildo machine.",
+    "A leaky bottom.",
+    "A mouth so sensitive it can feel the sperm wriggling.",
+    "A pair of pliers and a blowtorch.",
+    "A scabby tampon.",
+    "A strap-on.",
+    "A training bra.",
+    "A waste of fucking time.",
+    "A woman's virginity.",
+    "Amy Winehouse.",
+    "An extra chromosome.",
+    "An inferiority complex.",
+    "Arranging sleeping children into suggestive positions.",
+    "Assuming no means yes and yes means anal.",
+    "Because I run faster horny than you do scared.",
+    "Being single as fuck.",
+    "Bludgeoning the flaps.",
+    "Buddha, the fat little cunt.",
+    "Butch lesbians.",
+    "Carpet burns.",
+    "Chlamydia.",
+    "Civil rights.",
+    "Coitus.",
+    "Congenital birth defects.",
+    "Corrupting the mind of a child.",
+    "Crack hoes that'll do pretty much anything.",
+    "Creamy knickers.",
+    "Donald Trump's inclusive attitude towards minorities.",
+    "Drinking, not because you want to, but because you have to.",
+    "Eating out a cum-filled whore.",
+    "Falling in love.",
+    "Finding a crimson crime scene in your girlfriend's white panties.",
+    "Finishing yourself off.",
+    "Fresh, dripping cum.",
+    "Fucking kids.",
+    "Getting fucked in the proverbial ass.",
+    "Getting your dick wet.",
+    "GILFs.",
+    "Gingers.",
+    "Going Greek.",
+    "Going to the bathroom just to wipe.",
+    "Grinding.",
+    "Grindr.",
+    "Having a baby to save your relationship.",
+    "Hemorrhaging cash.",
+    "Honkies.",
+    "Inappropriate grooming.",
+    "Jamming a twig up your pee hole.",
+    "Krazy Glue®.",
+    "Making bread from a yeast infection.",
+    "Mom's ability to take a cock.",
+    "Muff diving.",
+    "My angry vagina.",
+    "My father's flaccid penis.",
+    "My one-eyed monster.",
+    "My shitty life.",
+    "My sweaty hole.",
+    "North Korea.",
+    "Oscar Pistorius.",
+    "Paper-cut circumcision.",
+    "Pity sex.",
+    "Playing the race card.",
+    "Premenstrual tension.",
+    "Princess Diana.",
+    "Reeva Steenkamp.",
+    "Scratchy, uncomfortable sex.",
+    "Sexual harassment.",
+    "Shaking a baby until it stops crying.",
+    "Sharon Stone.",
+    "Slavery.",
+    "Smothering a severely disabled child with a pillow as an act of kindness.",
+    "Snapping your banjo string.",
+    "Stuffin' the muffin like a boss.",
+    "Teasing your sister with just the tip.",
+    "The cream of Sum Yung Gai.",
+    "The Final Solution.",
+    "The sexy curves of a pregnant stripper.",
+    "The shame and regret of a prostate-triggered orgasm.",
+    "The War on Terror.",
+    "This lump in my trousers.",
+    "Turning a beached whale into a makeshift Slip 'N Slide®.",
+    "Underwear off, fanny in the face.",
+    "Using your mom's old diaphragm as contraception in a pinch.",
+    "Years of rejection and failure."
+  ],
+  "quantity": {
+    "black": 22,
+    "white": 90,
+    "total": 112
+  }
+}

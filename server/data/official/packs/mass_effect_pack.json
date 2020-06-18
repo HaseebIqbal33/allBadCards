@@ -1,0 +1,45 @@
+{
+  "pack": {
+    "name": "Mass Effect Pack",
+    "id": "mass_effect_pack"
+  },
+  "black": [
+    {
+      "content": "Coming this spring from BioWare, Mass Effect: ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'm Commander Shepard, and this is my favorite place for ______ on the Citadel.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "It turns out the Reapers didn't want to destroy the galaxy. They just wanted ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "We were the two best hand-to-hand combatants on the ship. I had reach, but she had ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "An armored Krogan war-clitoris.",
+    "An emergency induction port.",
+    "An extremely long elevator ride.",
+    "Bone-shattering sex with a metal woman.",
+    "Falling I actual love with a video game character.",
+    "My complicated backstory that you will soon learn about.",
+    "Running a few errands before saving the galaxy.",
+    "Space racism.",
+    "The Genophage.",
+    "Totally fuckable aliens."
+  ],
+  "quantity": {
+    "black": 4,
+    "white": 10,
+    "total": 14
+  }
+}

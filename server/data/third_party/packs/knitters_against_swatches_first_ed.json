@@ -1,0 +1,75 @@
+{
+  "pack": {
+    "name": "Knitters Against Swatches First Edition",
+    "id": "knitters_against_swatches_first_ed"
+  },
+  "black": [
+    {
+      "content": "______, it's what happens at SNB.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Next up in my Ravelry queue ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Step 1: ______\nStep 2: ______\nStep 3: A cozy new sweater!",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Stitch marker? Who needs a stitch marker when you have ______?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's keeping me from knitting?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You can find a pattern for almost anything on Ravelry. For instance, ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "50 skeins of acrylic yarn.",
+    "A 70 y/o woman wearing a neon Stephen West shawl.",
+    "A bigger, blacker knitting bag.",
+    "A cat sweater knit from handspun cat hair.",
+    "A drunken night of knitting.",
+    "A faux taxidermied unicorn head.",
+    "A giant cocoon made entirely out of Malabrigo.",
+    "A KAL that only two people finish.",
+    "A knitted merkin.",
+    "Blacking out and losing 4 hours on Ravelry.",
+    "Blushing anytime I say fingering.",
+    "Casting 600 stitches onto the wrong size needle.",
+    "Finding glitter in my vagina.",
+    "Going into the LYS for one set of needles and coming out with $200 worth of yarn.",
+    "Hiding yarn purchases from my significant other.",
+    "Knitting myself a new hymen.",
+    "Knitting naughty items in public.",
+    "Knowing that s1, k2tog, psso is the same as sk2p.",
+    "Men who knit.",
+    "My stash.",
+    "People who can't tel the difference between knitting and crochet.",
+    "Recklessly abandoning the gauge swatch.",
+    "Seven single socks waiting for their mates to be knit.",
+    "Solving all of your problems with cashmere and a bottle of wine.",
+    "Swants.",
+    "The calm in knowing my knitting needles can double as weapons.",
+    "The curse of the boyfriend sweater.",
+    "The number of unworn shawls in my house.",
+    "The surprise color in a skein of Noro.",
+    "Using fabric scissors to cut paper."
+  ],
+  "quantity": {
+    "black": 6,
+    "white": 30,
+    "total": 36
+  }
+}

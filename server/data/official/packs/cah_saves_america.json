@@ -1,0 +1,73 @@
+{
+  "pack": {
+    "name": "Cards Against Humanity Saves America",
+    "id": "cah_saves_america"
+  },
+  "black": [
+    {
+      "content": "\"They’re bringing drugs. They’re bringing crime. They’re rapists. And some, I assume, are _____.\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Cry havoc and let slip ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Now is the winter of our discontent, made glorious summer by ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The fault, dear Brutus, is not in our stars, but in ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "We want a pitcher, not ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When asked about the biggest threat facing the nation, 60% of Americans said ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "You see, son, baseball is like ______. Don't overthink it.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A baby panda that just can't keep its eyes open.",
+    "A gay Republican somehow.",
+    "A laundry basket full of baby bunnies.",
+    "A really good dog.",
+    "A stack of puppies in a trench coat.",
+    "Getting deported.",
+    "Guacamole.",
+    "How easy it is to climb over a wall with a ladder.",
+    "Lou Gehrig's Disease.",
+    "Mexicans and Muslims.",
+    "My drunk father screaming from the bleachers.",
+    "Our dumb asshole president.",
+    "Slowly shaking my head at a sad statistic.",
+    "Speaking in iambic pentameter.",
+    "Taking a minute to really unpack what Shakespeare is getting at in this scene.",
+    "Teaching my son to love the Red Sox and hate minorities.",
+    "The shocking stupidity of the American public.",
+    "The significance of eyes in King Lear.",
+    "The truth.",
+    "Two baby otters holding hands.",
+    "Two hamsters nibbling on a tiny burrito.",
+    "White people becoming a minority.",
+    "Yelling \"I got it, I got it!\""
+  ],
+  "quantity": {
+    "black": 7,
+    "white": 23,
+    "total": 30
+  }
+}

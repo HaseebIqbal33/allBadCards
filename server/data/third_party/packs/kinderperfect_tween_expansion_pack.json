@@ -1,0 +1,210 @@
+{
+  "pack": {
+    "name": "KinderPerfect: Tween Expansion Pack",
+    "id": "kinderperfect_tween_expansion_pack"
+  },
+  "black": [
+    {
+      "content": "______ is worse than ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "______ is why I'm not a chaperon.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ is why I have gray hair now.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "______ is the moment my kid lost their innocence.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Before they were teenagers, my biggest worry was ______, but now I fear ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "For such a \"know-it-all\" tween, they were not ready for ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Graduation should put an end to ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "How you found out you're no longer the cool parent.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I can't wait for my kids to outgrow _______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I told myself I'd be the cool parent and accept ______, but I was wrong.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'm afraid to talk to my kids about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why we are the meanest parents on earth.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "No one warned me about tweens and ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Other parents worry about ______ but I stress over _______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Parenting is all fun and games until ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The best part of having a teenager is _______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The fastest route to parental PTSD.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The fastest way to embarrass your kids is to tell their friends about ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The real reason they don’t want to go to school today.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The school counselor wants to talk to us about _______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Today's annoying attitude is brought to you by _______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why I don't snoop in their room anymore.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why our kid is slamming doors today.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why our kids cannot have co-ed sleepovers.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A call from the police",
+    "A mysteriously deleted browser history",
+    "A positive STD test",
+    "A skirt too short",
+    "Acne",
+    "An encyclopedic knowledge of pop music but no clue about algebra",
+    "An uncontrollable erection",
+    "Annoying Snapchat filters",
+    "Arguing about their hygiene",
+    "Awkward gym showers",
+    "Awkward sex conversations",
+    "AXE deodorant spray clouds",
+    "Being the \"hangout house\"",
+    "Being too cool for mom",
+    "Catching them shoplifting from the 7-11",
+    "Choosing a high school for its sports team",
+    "Code phrases to signify menstrual periods",
+    "Counting the days until they move out",
+    "Crushing birth control pills into her breakfast every morning",
+    "Debating your closely held beliefs with a skeptical tween",
+    "Demanding an end to video game addiction",
+    "Expecting abstinence",
+    "Explaining the news to a smart-ass teen",
+    "Finding out your son is a peeping tom",
+    "Finding their profile on Tinder",
+    "Finding their secret social media profile",
+    "Finding your teen at the local strip club",
+    "Getting high with your teen",
+    "Getting revenge by changing the Wi-Fi password",
+    "Giving them \"the talk\"",
+    "Halloween costumes that cross the line",
+    "Her first time wearing makeup",
+    "Hiding the phone chargers to get them to do their homework",
+    "His first attempt at a mustache",
+    "His first box of condoms",
+    "Junior high drama",
+    "Learning how to twerk from your teen",
+    "Maxing out the credit card in one weekend",
+    "Middle school flashbacks",
+    "Oversharing on social media",
+    "Passing the driver's license test",
+    "Peach fuzz pubes",
+    "Pretending to enjoy their school concerts",
+    "Puberty",
+    "Realizing they are growing up to be just like you",
+    "Relearning algebra to help them with homework",
+    "School friends' uneducated views on sex",
+    "Slamming doors",
+    "Stealing your kid's weed",
+    "Taking pride in their acceptance by the cool kids",
+    "Teaching them how to properly stab their best friend in the back",
+    "That time they got caught smoking in the school bathroom",
+    "The ability to embarrass a teen anytime, anywhere",
+    "The constant narration of imaginary YouTube videos",
+    "The drama of being chosen last at gym",
+    "The first time they say \"because you're, like, old\"",
+    "The groping teen",
+    "The horror of a bad selfie",
+    "The horrors of middle school band",
+    "The life-changing drama of today's breakup",
+    "The Parents' Homework Hotline",
+    "The squeaky voice of puberty",
+    "The sudden interest in the opposite sex",
+    "The unrelenting attitude that crushes any sanity you have left",
+    "Their diet of cereal, ramen, pizza, and a gallon of milk every day",
+    "Their sh*tty taste in music",
+    "Their sudden recognition of dirty jokes",
+    "Their taste in teen movies",
+    "True love! For the third time this week",
+    "Two hour showers",
+    "Watching their eyes glaze over when you start talking",
+    "Wearing ear plugs to the tween pop concert",
+    "Wishing they'd waste weekends playing Dungeons and Dragons like you did",
+    "Wondering how your parents ever survived your teen years",
+    "Wondering whose thing is in the wash"
+  ],
+  "quantity": {
+    "black": 24,
+    "white": 75,
+    "total": 99
+  }
+}

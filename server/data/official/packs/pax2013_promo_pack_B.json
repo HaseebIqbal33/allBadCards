@@ -1,0 +1,33 @@
+{
+  "pack": {
+    "name": "PAX East 2013 Promo Pack B",
+    "id": "pax2013_promo_pack_B"
+  },
+  "black": [
+    {
+      "content": "Action stations! Action stations! Set condition one throughout the fleet and brace for ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In the final round of this year's Omegathon, Omeganauts must face off in a game of ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "Getting inside the Horadric Cube with a hot babe and pressing the transmute button.",
+    "Loading from a previous save.",
+    "Punching a tree to gather wood.",
+    "Sharpening a foam broadsword on a foam whetstone.",
+    "Spending the year's insulin budget on Warhammer 40k figurines.",
+    "The depression that ensues after catching 'em all.",
+    "The rocket launcher.",
+    "Violating the First Law of Robotics."
+  ],
+  "quantity": {
+    "black": 2,
+    "white": 8,
+    "total": 10
+  }
+}

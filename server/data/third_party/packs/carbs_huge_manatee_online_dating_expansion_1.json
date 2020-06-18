@@ -1,0 +1,218 @@
+{
+  "pack": {
+    "name": "Carbs of the Huge Manatee - Online Dating Expansion 1",
+    "id": "carbs_huge_manatee_online_dating_expansion_1"
+  },
+  "black": [
+    {
+      "content": "You think your last date was bad?  My date thought that buying me ______ was a reasonable substitute for buying me dinner.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Why did I dump my significant other the day before Valentine's Day?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "While on the phone with his Mom, I seriously distracted my boyfriend with ______.  It's a good thing I didn't laugh when she asked if something was wrong.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What helped me get my last girlfriend?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What disturbed me most about the person who contacted me from Plenty of Fish?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The two most awkward topics of conversation during our date at the church picnic?  ______ and ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "The first date went so well...  So why did the second date end?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "People say that the first thing they notice about me is ______, but let's be honest, it's actually ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Not a single profile picture gave me a good view of their face or figure, however, all of the pictures made their interest in ______, quite obvious.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My six things I can't live without?  Air, Friends/Family, iPhone, Good wine, Internet, ______, and ______.  Yeah, that's seven, but I'm a rebel.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "My partner uses ______ to mark their territory.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "My date apparently could see auras.  What did she see from my past that left her terrified and in the fetal position?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Must love Jesus and ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "It's one thing to have their dog stare at you while you're making out, It's another to be stared at while ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'm looking for a partner in crime.  The crime?  ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I wasn't able to talk my girlfriend into ______, but it was surprisingly easy to talk her into ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "I really love both Kari and Stephen, but the deciding factor between the two is simple.  ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I had no idea she was interested in me until we both got really drunk and found ourselves ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I deserve an Academy Award for not reacting when he started talking about ______ 10 minutes into our first (and last) date.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "For our anniversary, we went to a lovely little bed and breakfast, where they're known for their wine cellar and their ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "During the date, I found out that he really likes ______ and ______ at the same time.  I'm NOT okay with that.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "Admit it.  You would like to spend the night ______ with at least one person at this table.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "“I'm off my meds so I may be a bit weird.”",
+    "63 new messages saying either “Hay” or “Wanna fuck?”",
+    "A coyote date where you're willing to chew your own arm off to get away.",
+    "A date so awful you reevaluate your orientation.",
+    "A deep, meaningful relationship... started on Tinder.",
+    "Aging out of the online dating pool.",
+    "An awe-inspiringly generic profile.",
+    "Being dumped on your birthday.",
+    "Being on a date where every single question is answered with the statement, “I'm not comfortable talking about that.”",
+    "Being very concerned about “The Surgery” they keep referring to.",
+    "Calling out you date for attempting Pick Up Artist techniques on you.",
+    "Checking out the hot one on the left in the photo then realizing that the profile is for the not-so-hot one on the right.",
+    "Considering the date successful when they put their phone down for more than 50% of the time.",
+    "Contacting your cryptographer friend at the NSA for help in translating the poor grammar and spelling in a profile.",
+    "Dating someone almost half your age... almost.",
+    "Deciding if the amazing sex was worth the amazing crazy.",
+    "Destroying on really nice article of clothing.",
+    "Discovering that your significant other is shocked you masturbate.",
+    "Discovering you date thinks she's a “squirter,” but it's really just pee.",
+    "Discovering your 32 year old date is a virgin.          By choice.",
+    "Discovering your date has dotted-line tattoos saying “cut here” on their wrists.",
+    "Discussing your favorite types of bondage on your first date.",
+    "Driving two hours for a date only to find that they moved and left no forwarding address.",
+    "Ending a three-year relationship via email.",
+    "Extreme halitosis.",
+    "Faking an orgasm so you can kick them out.",
+    "Faking food poisoning to end the date.",
+    "Figuring out who gets the Hitachi Wand after the break-up.",
+    "Finding a polite way to ask if your date was born the gender they are now.",
+    "Finding out that they live in their parents' basement.",
+    "Finding out they're single in an “Ashley Madison” kind of way.",
+    "Finding out your date thinks that Cards Against Humanity™ isn't funny. At all.",
+    "Finding yourself disturbed at how turned on you are by someone who's that trashy.",
+    "Finding yourself trapped in a discussion about how the conspiracy is everywhere.",
+    "Fucking a guy with a huge penis... who has no idea what he's doing with it.",
+    "Fucking them senseless.",
+    "Geographically undesirable.",
+    "Getting back from a bad date to your roommate having sex on the couch.  Again.",
+    "Getting drunk.  Not for the date, but just for the searching online.",
+    "Getting the feeling that you really need to watch your drink.",
+    "Ghosting.",
+    "Giving the person who asked for your number the number of “dial-a-prayer.”",
+    "Going to Denny's and being told by your date what you can order so they can use their coupon.",
+    "Having explosive diarrhea in your date's bathroom.",
+    "Having mind-blowing sex with someone whose politics are the polar opposite of yours.",
+    "Having sex with someone who learned their technique from watching bad porn.",
+    "Having your cat back away, hackles-up, hissing and yowling at your date.",
+    "Having your date say grace while you think, “I'm picking up the tab, why are you thanking God?”",
+    "Ignoring glaringly obvious red-flags because they're really hot.",
+    "Judging someone based on the content of their character... and the shape of their butt.",
+    "Listening to him talk all night about his Twilight fan-fiction.",
+    "Looking through your “friends” on Facebook and playing “Would you or wouldn't you?” at 3:30am because you're awake and have nothing better to do.",
+    "Lying about your age by 10 years and thinking no one will notice.",
+    "Major bitchy/asshole resting face.",
+    "Meeting your date only to see their face fall at the sight of you.",
+    "Messages from people who are WAY less attractive than you.",
+    "Messages from people who obviously have not read your profile.",
+    "My eyes.",
+    "My favorite movies: The Secretary; Amelie; and The Shawshank Redemption.",
+    "Not clicking “casual sex” because you don't want to look like a slut. (even though you really want casual sex).",
+    "OKCupid suggesting not one, not two, but three different exes.",
+    "One hour into the date, they have to call-in and tell their Dom how the date is going.",
+    "One topic of conversation.  Vegan “food.”  Nothing else.",
+    "Pictures of you drinking a cocktail, sky-diving, and rock-climbing.",
+    "Because you're unique.",
+    "Pubic hair that makes you think of Donald Trump's toupee.",
+    "Random hairs from your ex on everything.  Including your underwear.",
+    "Reading a friend's profile and realizing you two should totally hook up.",
+    "Realizing this isn't a date, it's a chance for the person to share their love of Jesus with someone new.",
+    "Receiving flowers on your first date that smell like rotting flesh.",
+    "Returning your ex's stockings to her – after you've tied up your new girlfriend with them.",
+    "Signing up with eHarmony only to be told, “we can't find any matches for you.”",
+    "Spending $400 on another god-awful bridesmaid’s dress.",
+    "Spending the entire night surfing OKCupid, Match.com, Plenty of Fish, and Craig's List without reaching out.",
+    "Swiping left so hard you crack the screen.",
+    "Telling your parents you two met at church, not on CollarSpace.com.",
+    "The day after the first date when she tells you she's pregnant... and doesn't know who the father is.",
+    "The embarrassment of the hot nurse reading your medication list including Valtrex and Viagra...",
+    "The sense of connection after discovering you take the psychiatric meds.",
+    "Thinking, “Curvy?  Well, yeah.  Spheres have curves.”",
+    "Thinking, “maybe just this once I don't need protection...” and finding out later, “yeah, I did.”",
+    "Trying to decide if online- or offline-dating is worse.",
+    "Unholy rage and abuse at a polite “thanks, but no thanks” response to an online-dating contact",
+    "Upon meeting, discovering their photos were poor, outdated, and probably someone else... quite possibly of a different species altogether.",
+    "Watching your date get someone else's number while out with you.",
+    "Wedding reception hook-ups.",
+    "Wondering if maybe you're the ONLY person on any of these dating sites given your response rate.",
+    "Wondering why no one has actually created the dating site “Lowered Expectations.”",
+    "Wondering why none of your friends will set you up with their friends.",
+    "Yelling into the void.",
+    "Your date declaring their undying love in the first 45 minutes",
+    "Your date explaining that he's a masculinist and a member of the men's rights movement.",
+    "Your date surprising you by coming out of your bedroom wearing one of your button-down shirts.\nAnd nothing else."
+  ],
+  "quantity": {
+    "black": 22,
+    "white": 93,
+    "total": 115
+  }
+}

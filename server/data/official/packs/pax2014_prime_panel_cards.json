@@ -1,0 +1,45 @@
+{
+  "pack": {
+    "name": "PAX Prime 2014 - Panel Cards",
+    "id": "pax2014_prime_panel_cards"
+  },
+  "black": [
+    {
+      "content": "Bob Ross's little-known first show was called \"The Joy of ______.\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Buzzfeed presents: 10 pictures of ______ that look like ______.",
+      "pick": 2,
+      "draw": 1
+    },
+    {
+      "content": "During my first game of D&D, I accidentally summoned ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Like ______, State Farm is there.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "The Discovery Channel presents: ______ week.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A neck beard that is 10% cheese.",
+    "No survivors.",
+    "Pelvic sorcery.",
+    "Pooping as quietly as possible.",
+    "The beautiful sport of Turkish oil wrestling."
+  ],
+  "quantity": {
+    "black": 5,
+    "white": 5,
+    "total": 10
+  }
+}

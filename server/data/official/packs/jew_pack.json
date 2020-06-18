@@ -1,0 +1,65 @@
+{
+  "pack": {
+    "name": "Jew Pack / Chosen People Pack",
+    "id": "jew_pack"
+  },
+  "black": [
+    {
+      "content": "According to Freud, all children progress through three stages of development: the oral stage, the anal stage, and the ______ stage.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Can't you see? The Jews are behind everything-the banks, the media, even ______!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Coming to Broadway next season: \"______ on the Roof.\"",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Oh, your daughter should meet my son! He gives to charity, he loves ______ and did I mention he's a doctor?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's so important right now that you can't call your mother?",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "A big brain full of facts and sadness.",
+    "A headache that's definitely cancer.",
+    "A lifetime of internalized guilt.",
+    "A little bit of schmutz right there.",
+    "A three-foot-tall corned beef sandwich.",
+    "Bags of money.",
+    "Being chosen by God to win a free iPod Nano.",
+    "Chopping off a bit of the penis.",
+    "Demolishing that ass like a Palestinian village.",
+    "Hiding from the Nazis.",
+    "Holding up the line at Walgreens by trying to use an expired coupon.",
+    "Pork products.",
+    "Resurrecting an army of six million Jews and conquering Germany.",
+    "Sacrificing Isaac to the Lord.",
+    "Some kind of concentrated encampment for people.",
+    "Suddenly remembering that the Holocaust happened.",
+    "The blood of Christian babies.",
+    "The ethical implications of enjoying a Woody Allen film in light of the allegations against him.",
+    "The part of Anne Frank's diary where she talks about her vagina.",
+    "Thy neighbor's wife.",
+    "Torturing Jews until they say they're not Jews anymore.",
+    "Usury.",
+    "Wandering the desert for 40 years.",
+    "What it means to be a Jewish woman in contemporary society.",
+    "Whoopi Goldberg."
+  ],
+  "quantity": {
+    "black": 5,
+    "white": 25,
+    "total": 30
+  }
+}

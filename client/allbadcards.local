@@ -1,0 +1,18 @@
+[
+  {
+    "mongo": {
+      "local": "mongodb://your.url/letsplaywtf",
+      "prod": "mongodb://your.url/letsplaywtf",
+      "beta": "mongodb://your.url/letsplaywtf"
+    },
+    "patreon": {
+      "id": "_your_patreon_id_",
+      "secret": "_your_patreon_secret_"
+    },
+    "crypto": {
+      "key32": "_32_character_guid_",
+      "iv16": "_16_character_guid_"
+    },
+    "userSecretSalt": "_some_salt_here_"
+  }
+]

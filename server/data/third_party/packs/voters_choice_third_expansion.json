@@ -1,0 +1,92 @@
+{
+  "pack": {
+    "name": "Voter's Choice: The Third Expansion",
+    "id": "voters_choice_third_expansion"
+  },
+  "black": [
+    {
+      "content": "______!? NOT TODAY!",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Anything about ______ has to be educational.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I know I haven't been the best Christian but, ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I once discovered a golden ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "I'm glad one of us remembered. That could've been ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "In the year book I was voted most likely to ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "None of us recognized that his subtle interest in ______ was really a terrible addiction.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "Treat yo self to ______.",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What is my darkest secret?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "What's next after third base?",
+      "pick": 1,
+      "draw": 1
+    },
+    {
+      "content": "When a woman loves a man, it doesn't matter if ______.",
+      "pick": 1,
+      "draw": 1
+    }
+  ],
+  "white": [
+    "100,000 dollars, alcohol, and 4 weeks of vacation.",
+    "A flock of seagulls that mistakes your penis for a french fry.",
+    "A naked gay Mexican guy.",
+    "A shockingly realistic reenactment of the Games of Thrones.",
+    "Accidentally sexting your mother.",
+    "Becoming a superhero by killing your parents.",
+    "Being a two-timing whore.",
+    "Buying a windowless van and candy to improve your sex life.",
+    "Deeply inhaling your own farts.",
+    "I ate those fancy soaps you bought for the bathroom.",
+    "Making tea with the blood of our enemies.",
+    "Masturbating to Law and Order: Special Victims Unit.",
+    "Princess Leia in a threesome with Ewoks.",
+    "Pulling the plug on Grandma.",
+    "Searching for African Slaves on Amazon Prime.",
+    "The Dark Side.",
+    "The people who jumped on 9/11.",
+    "Titty fucking Susan G. Komen.",
+    "Tongue punching your fart box.",
+    "Yabba Dabba Doin It!: The Bedrocking Memoirs of Fred Flintstone.",
+    "Your favorite childhood stuffed animal coming to life, but turning out to be a massive racist.",
+    "Your mom's armpit hair."
+  ],
+  "quantity": {
+    "black": 11,
+    "white": 22,
+    "total": 33
+  }
+}
