@@ -1,0 +1,10 @@
+/client/node_modules/
+/node_modules/
+/builds/keys/
+/builds/
+/client/build/
+*.log
+/config/keys.json
+**/keys.json
+keys.json
+/cardcast-packs/

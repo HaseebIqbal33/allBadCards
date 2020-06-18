@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "types": [
+      "node"
+    ],
+    "lib": [
+      "es6"
+    ],
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "removeComments": false,
+    "allowSyntheticDefaultImports": true,
+    "target": "es6",
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "strictNullChecks": true,
+    "sourceMap": true,
+    "noEmit": false,
+    "baseUrl": "server",
+    "outDir": "C:/temp"
+  },
+  "include": [
+    "server"
+  ],
+  "exclude": [
+    "client",
+    "node_modules"
+  ]
+}
