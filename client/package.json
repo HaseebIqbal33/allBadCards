@@ -159,7 +159,7 @@
     "react-animated-burgers": "^1.2.7",
     "react-app-polyfill": "^1.0.2",
     "react-copy-to-clipboard": "^5.0.2",
-    "react-dev-utils": "^9.0.3",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.9.0",
     "react-emoji-render": "^1.2.2",
     "react-ga": "^2.7.0",
