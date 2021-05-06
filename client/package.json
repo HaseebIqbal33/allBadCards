@@ -171,7 +171,7 @@
     "react-spinners": "^0.8.1",
     "react-twitter-embed": "^3.0.3",
     "resolve": "1.10.0",
-    "sanitize-html": "^1.23.0",
+    "sanitize-html": "^2.3.2",
     "sass-loader": "7.2.0",
     "semver": "6.3.0",
     "shortid": "^2.2.15",
