@@ -49,7 +49,7 @@
     "patreon": "^0.4.1",
     "redis": "^3.0.2",
     "winston": "^3.2.1",
-    "ws": "^7.2.3",
+    "ws": "^7.4.6",
     "shortid": "^2.2.15",
     "dotenv": "^8.2.0",
     "allbadcards-human-readable-ids": "1.1.1",
