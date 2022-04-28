@@ -26,7 +26,7 @@
     "client-oauth2": "^4.3.0",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.4",
-    "cross-fetch": "^3.0.4",
+    "cross-fetch": "^3.1.5",
     "clone-deep": "^4.0.1",
     "deep-equal": "^2.0.3",
     "deep-extend": "^0.6.0",
