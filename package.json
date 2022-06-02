@@ -40,7 +40,7 @@
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
     "mongodb": "^3.3.2",
-    "protobufjs": "^6.9.0",
+    "protobufjs": "^6.11.3",
     "lodash": "^4.17.15",
     "simple-oauth2": "^3.1.0",
     "ts-node": "^8.3.0",
