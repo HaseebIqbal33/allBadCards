@@ -38,7 +38,7 @@
     "isomorphic-cardcast-api": "1.0.10",
     "jsonschema": "^1.2.6",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "mongodb": "^3.3.2",
     "protobufjs": "^6.9.0",
     "lodash": "^4.17.15",
